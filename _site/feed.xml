@@ -7,6 +7,18 @@
     <atom:link href="http://rkwrd.github.io/# Site url./feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title></title>
+        <description>&lt;h2&gt;Let&amp;rsquo;s see what happens!&lt;/h2&gt;
+
+&lt;p&gt;This is the one which has the published-setting as &amp;ldquo;yes&amp;rdquo;
+Blub-blub!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Feb 2015 00:00:00 +0100</pubDate>
+        <link>http://rkwrd.github.io/# Site url./2015/02/20/testcase2/</link>
+        <guid isPermaLink="true">http://rkwrd.github.io/# Site url./2015/02/20/testcase2/</guid>
+      </item>
+    
+      <item>
         <title>Scribble, a Jekyll theme</title>
         <description>&lt;p&gt;I have other themes, checkout (mainly) &lt;a href=&quot;https://github.com/muan/muan.github.com/releases&quot;&gt;this repository&lt;/a&gt; and &lt;a href=&quot;https://github.com/muan/jekyll-wardrobe&quot;&gt;this repository&lt;/a&gt;. &amp;lt;3&lt;/p&gt;
 
