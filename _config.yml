@@ -7,13 +7,13 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Escaping Sloth 
+tagline:          ...very slowly! 
 url:              http://getpoole.com
 paginate:         1
 baseurl:          http://rkwrd.github.io/
 author:
-  name:           Mark Otto
+  name:           Arne 
   url:            https://twitter.com/mdo
   email:          markdotto@gmail.com
 
