@@ -1,30 +1,26 @@
-# Dependencies
-markdown:         redcarpet
+title:            Scribble
+description:      A jekyll theme. Because I scribble.
+url:              # Site url.
+signoff:          # Your name.
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+
+links:
+  - name:         About
+    url:          /about
+  - name:         Blog
+    url:          http://muan.co
+    external:     true
+  - name:         Email
+    url:          mailto:hello@muan.co
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/muan
+    external:     true
 highlighter:      pygments
-
-# Permalinks
 permalink:        pretty
-relative_permalinks: true
-
-# Setup
-title:            Escaping Sloth 
-tagline:          ...very slowly! 
-url:              http://getpoole.com
-paginate:         1
-baseurl:          http://rkwrd.github.io/
-author:
-  name:           Arne 
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
-
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
-
-
-# page header
-pages_list:
-  About: "/about"
-  Archive: "/archive"
-  Feed: "/atom.xml"
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
