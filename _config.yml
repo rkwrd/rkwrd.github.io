@@ -11,12 +11,9 @@ links:
     url:          /about
   - name:         Blog
     url:          /archive 
-    external:     true
+    # external:     true
   - name:         Email
     url:          mailto:a.n.langner@gmail.com
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/muan
     external:     true
 highlighter:      pygments
 permalink:        pretty
