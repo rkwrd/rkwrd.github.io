@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Escaping Sloth</title>
-    <description>A jekyll theme. Because I scribble.</description>
+    <description>...very slowly</description>
     <link>http://rkwrd.github.io/# Site url.</link>
     <atom:link href="http://rkwrd.github.io/# Site url./feed.xml" rel="self" type="application/rss+xml" />
     
