@@ -7,13 +7,16 @@
     <atom:link href="http://rkwrd.github.io/# Site url./feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>YAY!</title>
+        <title>okay, this is now an image test!</title>
         <description>&lt;h2&gt;Let&amp;rsquo;s see what happens!&lt;/h2&gt;
 
 &lt;p&gt;This is the one which has the published-setting as &amp;ldquo;yes&amp;rdquo;
 Blub-blub!&lt;/p&gt;
+
+&lt;p&gt;And here we have an image:
+&lt;img src=&quot;/_assets/bunny.jpg&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Feb 2015 00:00:00 +0100</pubDate>
+        <pubDate>Fri, 20 Feb 2015 20:30:30 +0100</pubDate>
         <link>http://rkwrd.github.io/# Site url./2015/02/20/testcase2/</link>
         <guid isPermaLink="true">http://rkwrd.github.io/# Site url./2015/02/20/testcase2/</guid>
       </item>
