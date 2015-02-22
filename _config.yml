@@ -7,14 +7,14 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
+  - name:         Archive
+    url:          /archive 
   - name:         About
     url:          /about
-  - name:         Blog
-    url:          /archive 
     # external:     true
-  - name:         Email
-    url:          mailto:a.n.langner@gmail.com
-    external:     true
+#- name:         Email
+#    url:          mailto:a.n.langner@gmail.com
+#    external:     true
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
