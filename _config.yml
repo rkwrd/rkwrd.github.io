@@ -12,6 +12,8 @@ links:
   - name:         About
     url:          /about
     # external:     true
+  - name:         Travel
+    url:          /tags/travel/index
 #- name:         Email
 #    url:          mailto:a.n.langner@gmail.com
 #    external:     true
