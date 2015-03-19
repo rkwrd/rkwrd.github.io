@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog posts 
+title: Articles
 ---
 
 

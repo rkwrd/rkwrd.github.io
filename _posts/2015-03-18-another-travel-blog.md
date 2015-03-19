@@ -13,7 +13,11 @@ Cleary keeping my friends informed individually seems like a lot of repetition, 
 However I don't really like or trust Facebook anymore, so putting all my stuff on there didn't exactly appeal to me either.
 
 The obvious consequence then is a blog, something I had discussed with some of my friends as well.
-Here is the problem though: Since I am now traveling, my blog would be a travel blog. I don't like travel blogs.
+
+Here is the problem though: Since I am now traveling, my blog would be a travel blog. 
+
+I don't like travel blogs.
+
 Whilst preparing for my trip I had skimmed through many travel blogs and quite simply I thought too many of them were shit. 
 Most of them seem to consist of listicles (a topic worthy of a rant of its own. Spoiler: I don't like them.), "me at the beach" type pictures and rather heavy-handed prose.
 Overall, I'm pretty sure that's not the kind of blog I would want to spend time on. Partially because of my drastic aversion to listicles, partially since I'm way too pale to be photographed at the beach. Lastly, I'm not under the delusion that I'm any kind of Hemingway.
