@@ -28,12 +28,9 @@ I'm excited to see if I can put together content at a respectable frequency. in 
 
 But despair not, ye of little faith, I will surely write the occasional bit on my whereabouts (and yes, the status of my neck). Prepare for pictures of beaches, wine-glasses and my horribly sun-burned mug. Hell, I might even take a shot at some destination-related articles with a bit of substance.
 
-I'm excited to see if I can put together content at a respectable frequency. in that regard this blog also serves as an experiment on my (lack of) self discipline.
+Since writing here is also a desperate attempt to build some sort of self-discipline, please feel free to give me a friendly nudge between the eyes if I'm getting too lazy.
 
-For the technically inclined amongst my esteemed readers: This blog is static html rendered using Jekyll. It's currently hosted on github pages, though I might move it to my own server at some point. 
-
-The pleasantly simple theme I'm using is called "scribble".
-
+So let's start this experiment then, shall we?
 
 
 
