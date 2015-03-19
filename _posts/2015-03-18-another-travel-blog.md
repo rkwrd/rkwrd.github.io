@@ -8,7 +8,7 @@ Just as I had settled in on Thessaloniki's lustrous promenade, my peace was dist
 
 Before my departure some of my friends had indeed asked for regular status updates on my trip and/or whether my head was still attached to my shoulders (Day 1: yes).
 
-Cleary keeping my friends informed individually seems like a lot of repetition. It's likely that I would eventually start neglecting that task, possibly losing touch. I can easily remedy this by putting regular updates online at a central location.
+Cleary keeping my friends informed one by one seems like a lot of repetition. It's likely that I would eventually start neglecting that task and lose touch. I can easily remedy this by putting regular updates online at a central location.
 
 However I don't really like or trust Facebook anymore, so putting all my stuff on there didn't exactly appeal to me.
 The obvious consequence then is a website, something I had discussed with some of my friends as well.
