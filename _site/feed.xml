@@ -3,8 +3,8 @@
   <channel>
     <title>Escaping Sloth</title>
     <description>...very slowly</description>
-    <link>http://rkwrd.github.io/# Site url.</link>
-    <atom:link href="http://rkwrd.github.io/# Site url./feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://rkwrd.github.io/</link>
+    <atom:link href="http://rkwrd.github.io//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Another travel site?</title>
@@ -36,8 +36,8 @@ So ideally, this site will be mainly be growing on articles on the topics I&amp;
 &lt;p&gt;So let&amp;rsquo;s start this experiment then, shall we?&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Mar 2015 21:22:00 +0200</pubDate>
-        <link>http://rkwrd.github.io/# Site url./2015/03/18/another-travel-blog/</link>
-        <guid isPermaLink="true">http://rkwrd.github.io/# Site url./2015/03/18/another-travel-blog/</guid>
+        <link>http://rkwrd.github.io//2015/03/18/another-travel-blog/</link>
+        <guid isPermaLink="true">http://rkwrd.github.io//2015/03/18/another-travel-blog/</guid>
       </item>
     
       <item>
@@ -45,8 +45,8 @@ So ideally, this site will be mainly be growing on articles on the topics I&amp;
         <description>&lt;h2&gt;What better words to start a personal blog?&lt;/h2&gt;
 </description>
         <pubDate>Sun, 22 Feb 2015 00:00:00 +0200</pubDate>
-        <link>http://rkwrd.github.io/# Site url./2015/02/22/so-long-suckers/</link>
-        <guid isPermaLink="true">http://rkwrd.github.io/# Site url./2015/02/22/so-long-suckers/</guid>
+        <link>http://rkwrd.github.io//2015/02/22/so-long-suckers/</link>
+        <guid isPermaLink="true">http://rkwrd.github.io//2015/02/22/so-long-suckers/</guid>
       </item>
     
   </channel>
