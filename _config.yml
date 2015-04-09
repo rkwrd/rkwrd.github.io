@@ -6,6 +6,8 @@ disqus_shortname: # disqus comment thread for post header options. ( leave blank
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
+name:             Escaping Sloth
+
 links:
   - name:         About
     url:          /about
@@ -20,7 +22,9 @@ links:
 #    url:          /tags/tech/index
   - name:         Archive
     url:          /archive 
- 
+  - name:         RSS
+    url:          /feed.xml
+
 #- name:         Email
 #    url:          mailto:a.n.langner@gmail.com
 #    external:     true
