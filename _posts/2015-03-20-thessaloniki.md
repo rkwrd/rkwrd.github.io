@@ -8,7 +8,7 @@ I reached Thessaloniki after an early morning start (04:30h) and a short flight,
 
 By the time I left Thessaloniki airport, I was only half-comatose, so it didn't take me very long to realize that Greece was not anywhere near as warm and sunny as I had expected. Partially due to my still-dormant metabolism but mostly due to the frigid weather I was almost shivering at the bus stop. When the bus got close to the city centre, it also started to rain. There is a very special feeling of "oh...fantastic" when the mediterranean paradise you expected turns out to be cold and rainy.
 
-**Lesson 001:** *Research the climate and weather of your destionation. Really research that stuff. Think about what it* **means**. *Adjust your expectations and daydreams accordingly. You will still be grumpy but at least you'll be right.*
+**Lesson 001:** *Research the climate and weather of your destination. Really research that stuff. Think about what it* **means**. *Adjust your expectations and daydreams accordingly. You will still be grumpy but at least you'll be right.*
 
 Another aspect of this feeling was the less than scenic route from the airport towards the city centre: While those outskirts are rarely very pretty, these particular outskirts seemed surprisingly destitute. Not in a "Oh my god, these people need help!" kind of way. More in a "Damn, I wouldn't want to share a currency with those guys" kind of way. More on that later though.
 
