@@ -21,7 +21,7 @@ The more central parts of Thessaloniki consist of an old town up on the hill and
 
 ![image](http://rkwrd.github.io/pics/IMG_20150319_201431_scaled.jpg)
 
-![image](http://rkwrd.github.io/pics/IMG_20150319_125804_scaled.jpg)
+![image](http://rkwrd.github.io/pics/IMG_20150319_125804_scaled.jpg){: .center-image }
 
 ![image](http://rkwrd.github.io/pics/IMG_20150321_174658_scaled.jpg)
 
