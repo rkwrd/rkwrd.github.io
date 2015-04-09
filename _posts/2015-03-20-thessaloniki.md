@@ -19,8 +19,6 @@ The more central parts of Thessaloniki consist of an old town up on the hill and
 
 ![image](http://rkwrd.github.io/pics/IMG_20150319_124700_scaled.jpg)
 
-![image](http://rkwrd.github.io/pics/IMG_20150319_125804_scaled.jpg)
-
 ![image](http://rkwrd.github.io/pics/IMG_20150319_201431_scaled.jpg)
 
 ![image](http://rkwrd.github.io/pics/IMG_20150319_125804_scaled.jpg)
@@ -30,15 +28,13 @@ The more central parts of Thessaloniki consist of an old town up on the hill and
 
 The areas near the promenade are very different indeed: They are all composed of multi-story buildings laid out on a grid of roads running parallel or perpendicular to the promenade. Here, Thessaloniki looks like most modern cities with loads of apartments, thick traffic and shopping streets. Sprinkled in between are churches (such as the Hagia Sophia or the Hagia Demetrios), excavations and other hints at the city's glorious past, such as the White Tower:
 
-[more images]
+![image](http://rkwrd.github.io/pics/IMG_20150318_122006_scaled.jpg)
 
 The promenade east of the White Tower connects to parks and playgrounds while the section next to the city centre is seamed with bars, cafes and restaurants. Near it's western limit, the wharf, the promenade leads up to the poshest part of town. Branded stores, expensive restaurants, luxury food stores, the lot. Going out here was a sharp contrast to, say, Berlin: People were properly dressed up, even the hipsters. Properly dressed hipsters: Take note, Berlin!
  
 
 ##What I did
 I ended up staying in Thessaloniki for 5 days, sleeping at a lovely hostel in the east-most part of the Old Town. There I met two Teaching Assistants from the US who were working in Austria. While the unpredictable weather kept us from making long-term plans, we made good use of our time exploring the city, its cafes and some of the museums.
-
-
 
 We even made it to the beach during that one sunny day. 12°C water temperature, so it was definitely more of a plunge than a swim. The white dot in all that cold-looking water is me (if you look closely, you can see the enjoyment on my face...see lesson 001 above.)
 
