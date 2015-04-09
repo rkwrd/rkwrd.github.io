@@ -17,9 +17,15 @@ Another aspect of this feeling was the less than scenic route from the airport t
 The more central parts of Thessaloniki consist of an old town up on the hill and a newer part right on the bay. The old town, where my hostel was located, is exactly what you imagine when you think about the Mediterranean: Low houses, lots of narrow roads and passages and plenty of inclines to climb while cursing between clenched teeth. Mostly a residential area, the old town also contains tiny cornershops, small restaurants and the remnants of Byzantine-era fortifications and walls, some of which are easily 8-12 meters high. Coupled with the steep hill they are positioned on, the view down on the city and coastline is quite special (or at least it was on that one day the sun was out):
 
 
-![image](http://rkwrd.github.io/pics/IMG_20150319_114357.jpg)
+![image](http://rkwrd.github.io/pics/IMG_20150319_124700_scaled.jpg)
 
-![image](http://rkwrd.github.io/pics/IMG_20150319_124658.jpg)
+![image](http://rkwrd.github.io/pics/IMG_20150319_125804_scaled.jpg)
+
+![image](http://rkwrd.github.io/pics/IMG_20150319_201431_scaled.jpg)
+
+![image](http://rkwrd.github.io/pics/IMG_20150319_125804_scaled.jpg)
+
+![image](http://rkwrd.github.io/pics/IMG_20150321_174658_scaled.jpg)
 
 
 The areas near the promenade are very different indeed: They are all composed of multi-story buildings laid out on a grid of roads running parallel or perpendicular to the promenade. Here, Thessaloniki looks like most modern cities with loads of apartments, thick traffic and shopping streets. Sprinkled in between are churches (such as the Hagia Sophia or the Hagia Demetrios), excavations and other hints at the city's glorious past, such as the White Tower:
@@ -30,11 +36,13 @@ The promenade east of the White Tower connects to parks and playgrounds while th
  
 
 ##What I did
-I ended up staying in Thessaloniki for 5 days, sleeping at a lovely hostel in the east-most part of the Old Town. There I met two Teaching Assistants from the US who were working in Austria. While the unpredictable weather kept us from making long-term plans, we made good use of our time exploring the city, its cafes and some of the museums:
+I ended up staying in Thessaloniki for 5 days, sleeping at a lovely hostel in the east-most part of the Old Town. There I met two Teaching Assistants from the US who were working in Austria. While the unpredictable weather kept us from making long-term plans, we made good use of our time exploring the city, its cafes and some of the museums.
 
-[images]
+
 
 We even made it to the beach during that one sunny day. 12°C water temperature, so it was definitely more of a plunge than a swim. The white dot in all that cold-looking water is me (if you look closely, you can see the enjoyment on my face...see lesson 001 above.)
+
+![image](http://rkwrd.github.io/pics/IMG-20150322-WA0000_scaled.jpg)
 
 Apart from that, I paid my dues in terms of visiting museums and doing the usual "oooh" and "aaaah" at most ruins and important sites. I won't bore you with the details. Besides that, I spent a fair amount of time sitting in a cafe, slowly coming to terms with the idea of traveling for a year. Who in god's name thought that was a good idea?
 
