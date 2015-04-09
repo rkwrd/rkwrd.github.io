@@ -3,8 +3,8 @@
   <channel>
     <title>Escaping Sloth</title>
     <description>...very slowly</description>
-    <link>http://rkwrd.github.io/</link>
-    <atom:link href="http://rkwrd.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://escapingsloth.com/</link>
+    <atom:link href="http://escapingsloth.com//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Thessaloniki</title>
@@ -46,8 +46,8 @@
 
 </description>
         <pubDate>Fri, 20 Mar 2015 00:00:00 +0200</pubDate>
-        <link>http://rkwrd.github.io//2015/03/20/thessaloniki/</link>
-        <guid isPermaLink="true">http://rkwrd.github.io//2015/03/20/thessaloniki/</guid>
+        <link>http://escapingsloth.com//2015/03/20/thessaloniki/</link>
+        <guid isPermaLink="true">http://escapingsloth.com//2015/03/20/thessaloniki/</guid>
       </item>
     
       <item>
@@ -81,8 +81,8 @@ So ideally, this site will be mainly be growing on articles on the topics I’m 
 
 </description>
         <pubDate>Wed, 18 Mar 2015 21:22:00 +0200</pubDate>
-        <link>http://rkwrd.github.io//2015/03/18/another-travel-blog/</link>
-        <guid isPermaLink="true">http://rkwrd.github.io//2015/03/18/another-travel-blog/</guid>
+        <link>http://escapingsloth.com//2015/03/18/another-travel-blog/</link>
+        <guid isPermaLink="true">http://escapingsloth.com//2015/03/18/another-travel-blog/</guid>
       </item>
     
       <item>
@@ -90,8 +90,8 @@ So ideally, this site will be mainly be growing on articles on the topics I’m 
         <description>&lt;h2 id=&quot;what-better-words-to-start-a-personal-blog&quot;&gt;What better words to start a personal blog?&lt;/h2&gt;
 </description>
         <pubDate>Sun, 22 Feb 2015 00:00:00 +0200</pubDate>
-        <link>http://rkwrd.github.io//2015/02/22/so-long-suckers/</link>
-        <guid isPermaLink="true">http://rkwrd.github.io//2015/02/22/so-long-suckers/</guid>
+        <link>http://escapingsloth.com//2015/02/22/so-long-suckers/</link>
+        <guid isPermaLink="true">http://escapingsloth.com//2015/02/22/so-long-suckers/</guid>
       </item>
     
   </channel>
