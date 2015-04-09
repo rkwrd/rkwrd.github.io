@@ -38,7 +38,7 @@ I ended up staying in Thessaloniki for 5 days, sleeping at a lovely hostel in th
 
 We even made it to the beach during that one sunny day. 12°C water temperature, so it was definitely more of a plunge than a swim. The white dot in all that cold-looking water is me (if you look closely, you can see the enjoyment on my face...see lesson 001 above.)
 
-![image](http://rkwrd.github.io/pics/IMG-20150322-WA0000_scaled.jpg){: .center-image }
+![image](http://rkwrd.github.io/pics/IMG-20150322-WA0000_scaled.jpg)
 
 Apart from that, I paid my dues in terms of visiting museums and doing the usual "oooh" and "aaaah" at most ruins and important sites. I won't bore you with the details. Besides that, I spent a fair amount of time sitting in a cafe, slowly coming to terms with the idea of traveling for a year. Who in god's name thought that was a good idea?
 
