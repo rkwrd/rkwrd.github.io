@@ -12,7 +12,7 @@ We reached our hostel in Fira, the biggest city on the island, after dark and ch
 After a quick bite to eat we headed back to the hostel. Upon closer inspection, the rooms and especially the bathrooms turned out to be very...rustic. Wait, no: rusty. And somewhat grimy, too.
 
 
-###Kamari Beach and Ancient Thira
+###Kamari Beach and Ancient Thera
 
 The next morning we got up and headed for the bus station to take a bus to Kamari beach in the southeast of the island. After a short ride through scenic, if sleepy parts of the island we arrived in Kamari and wandered towards the beach. 
 
