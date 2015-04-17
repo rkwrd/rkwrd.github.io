@@ -17,7 +17,7 @@ After a quick bite to eat we headed back to the hostel. Upon closer inspection, 
 The next morning we got up and headed for the bus station to take a bus to Kamari beach in the southeast of the island. After a short ride through scenic, if sleepy parts of the island we arrived in Kamari and wandered towards the beach. 
 
 ![image](http://escapingsloth.com/pics/IMG_20150407_101603_scaled.jpg){: .center-image }
-The beach...in case you hadn't guessed.
+The beach - in case you hadn't guessed.
 
 When we tried to find breakfast however, we found almost nothing: It really felt like the town was only just about waking from hibernation. Wherever we looked, shop owners were slowly beginning to polish signs, paint walls and posts and prune trees and bushes. There were plenty of cafes and bars of course, but none of them were open for business yet. Instead, we grabbed some pies from a bakery and had a relaxed lunch on the beach.
 
