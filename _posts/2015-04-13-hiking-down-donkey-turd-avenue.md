@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Stranded I - Hiking down Donkey Turd Avenue
+title: "Stranded I - Hiking down Donkey Turd Avenue"
 date: 2015-04-13 12-30-24
 published: false
 ---
 
-So your friend has left the island and you're settled in in your hostel, awaiting your ferry's departure the next day. But then you hear whispers in the common room about ferries getting canceled due to the storm, so you go out and check. A look down from the mainroad seems to support that rumor:
+So your friend has left the island and you're settled in in your hostel, awaiting your ferry's departure the next day. But then you hear whispers in the common room about ferries getting canceled due to the storm, so you go out and check. A look down from the main road seems to support that rumor:
 
 ![image](http://escapingsloth.com/pics/IMG_20150410_084952_scaled.jpg){: .center-image }
 
@@ -43,7 +43,7 @@ You pass a sign "Donkey Terminal", followed by a row of two dozen donkeys, patie
 
 The clear, blue water that looked so inviting the other day shows a very different face today: Waves surge violently and crash into the pier, filling the air with a salty mist. Out in the bay, the squall grabs the crests off the waves and rips the spray up in the air in hazy shapes. Close to the volcano in the middle of the bay seabirds struggle to stay in the air as angry gusts throw them this way and that. The sun shines on it all. And you just sit there, on your bench, and smile at this phenomenal display.
 
-After getting completely lost in the view, you get up and slowly make your way back to the stairs. You scoff at the next group of tourists which is just getting on their respective donkeys and start taking the steps, two at a time. After two of the serpentine loops you begin to feel that welcome sense of physical action. Of going somewhere. After three, your breath comes quickly and you start feeling rather warm in your jacket. How many of those loops were there again? Oh, that's right: Nine. Two loops later you notice that the weird dimensions of the steps mean you're stressing one leg more than the other. You begin to alternate the rythm. Maybe that will make it less exhausting. Five loops done and you're breathing through your mouth. You can definitely feel your legs now. Can't really slow down though, because then the donkeys might overtake you. How would that look? Loop six is a short one, thank god. You feel sweat soaking your shirt and your pulse hammering in your neck as you ascend the last few stairs and lean on a low wall to catch your breath. Way, way down below the donkey caravan is crawling up, leaving another unmistakable trail on the stairs you just conquered. Who needs donkeys anyway?
+After getting completely lost in the view, you get up and slowly make your way back to the stairs. You scoff at the next group of tourists which is just getting on their respective donkeys and start taking the steps, two at a time. After two of the serpentine loops you begin to feel that welcome sense of physical activity. Of going somewhere. After three, your breath comes quickly and you start feeling rather warm in your jacket. How many of those loops were there again? Oh, that's right: Nine. Two loops later you notice that the weird dimensions of the steps mean you're stressing one leg more than the other. You begin to alternate the pace. Maybe that will make it less exhausting. Five loops done and you're breathing through your mouth. You can definitely feel your legs now. Can't really slow down though, because then the donkeys might overtake you. How would that look? Loop six is a short one, thank god. You feel sweat soaking your shirt and your pulse hammering in your neck as you ascend the last few stairs and lean on a low wall to catch your breath. Way, way down below the donkey caravan is crawling up, leaving another unmistakable trail on the stairs you just conquered. Who the hell needs donkeys anyway?
 
 
 
