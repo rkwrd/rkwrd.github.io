@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Stranded I: Hiking down Donkey Turd Avenue
-date: 2015-04-10 12-30-24
+title: Stranded I - Hiking down Donkey Turd Avenue
+date: 2015-04-13 12-30-24
 published: false
 ---
 
