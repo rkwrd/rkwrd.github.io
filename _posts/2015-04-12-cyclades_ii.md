@@ -30,14 +30,13 @@ What is it with you and cliffs, Holger?!
 
 We had initially thought we'd just hike the way up to the ancient ruins on top. And we started doing just that, in the mid-day heat and without a complaint. But then Holger spied a car about to pass us. We decided that, while of course we were hardcore, we weren't donkeys, so we'd take the ride offered to us, thank you very much!
 
+Up at the top we goofed around on the cliffs for a spell,  before climbing up to the ruins of [Ancient Thera](http://en.wikipedia.org/wiki/Ancient_Thera)
+
 ![image](http://escapingsloth.com/pics/IMG_20150407_130153_scaled.jpg){: .center-image }
 
 ![image](http://escapingsloth.com/pics/IMG_20150407_134019_scaled.jpg){: .center-image }
 
 ![image](http://escapingsloth.com/pics/IMG_20150407_135538_scaled.jpg){: .center-image }
-
-
-Up at the top we goofed around on the cliffs for a spell,  before climbing up to the ruins of [Ancient Thera](http://en.wikipedia.org/wiki/Ancient_Thera)
 
 Having taken the easy way out on the ascent, we figured that we could easily do the descent on our own. But then Holger spied a car...well, you can see where this is going. 
 
