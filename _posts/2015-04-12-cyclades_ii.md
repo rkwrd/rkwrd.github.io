@@ -2,12 +2,12 @@
 layout: post
 title: Cyclades, part II
 date: 2015-04-12 12-30-24
-published: false
+published: true
 ---
 
 ##Santorini
 
-We reached our hostel in Fira, the biggest city on the island, after dark and checked in. Afterwards we went for a short walk around the city centre. Despite it being pre-season, the main roads were already **teeming** with tourists. Most of them from China, it seemed, and mostly congregating in front of the numerous Chinese restaurants. As we eventually found out from a Albanian hostel clerk, groups of Chinese tourists travelled to Santorini during the more affordable pre- and post-season.
+We reached our hostel in Fira, the biggest city on the island, after dark and checked in. Afterwards we went for a short walk around the city centre. Despite it being pre-season, the main roads were already teeming with tourists. Most of them from China, it seemed, and mostly congregating in front of the numerous Chinese restaurants. As we eventually found out from a Albanian hostel clerk, groups of Chinese tourists travel to Santorini during the more affordable pre- and post-season and annoy the locals through extreme stinginess.
 
 After a quick bite to eat we headed back to the hostel. Upon closer inspection, the rooms and especially the bathrooms turned out to be very...rustic. Wait, no: rusty. And somewhat grimy, too.
 
@@ -40,11 +40,12 @@ Up at the top we goofed around on the cliffs for a spell,  before climbing up to
 
 Having taken the easy way out on the ascent, we figured that we could easily do the descent on our own. But then Holger spied a car...well, you can see where this is going. 
 
-Down at the beach we went for a quick swim, observed by a n audience of gawping Chinese tourists. That clear, blue water looked so warm and inviting! While it wasn't exactly warm, the hot sand and sunshine took the edge off the experience.
+Down at the beach we went for a quick swim, observed by an audience of Chinese tourists. That clear, blue water looked so warm and inviting! While it wasn't exactly warm, the hot sand and sunshine took the edge off the experience.
 
 Back in town we grabbed a quick dinner before picking up a few beers and heading back for the beach.
 
 ![image](http://escapingsloth.com/pics/IMG_20150407_162900_scaled.jpg){: .center-image }
+
 ![image](http://escapingsloth.com/pics/IMG_20150407_165155_scaled.jpg){: .center-image }
 Relaxing after a hard day's work. And yes, those rocks were all warmed up by the sun. I felt like a lizard. A lizard with a beer and a smartphone.
 
