@@ -16,7 +16,7 @@ After a quick bite to eat we headed back to the hostel. Upon closer inspection, 
 
 The next morning we got up and headed for the bus station to take a bus to Kamari beach in the southeast of the island. After a short ride through scenic, if sleepy parts of the island we arrived in Kamari and wandered towards the beach. 
 
-{% include image.html img="pics/IMG_20150407_101603_scaled.jpg" title="Image" caption="" %}
+{% include image.html img="pics/IMG_20150407_101603_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150407_101603.jpg" %}
 The beach - in case you hadn't guessed.
 
 When we tried to find breakfast however, we found almost nothing: It really felt like the town was only just about waking from hibernation. Wherever we looked, shop owners were slowly beginning to polish signs, paint walls and posts and prune trees and bushes. There were plenty of cafes and bars of course, but none of them were open for business yet. Instead, we grabbed some pies from a bakery and had a relaxed lunch on the beach.
@@ -25,18 +25,18 @@ As we sat there, looking at the waves, I couldn't help but steal a glance or two
 
 After wrapping up these profound sociological musings, we headed towards the mountains fencing in Kamari in the southwest. 
 
-{% include image.html img="pics/IMG_20150407_122013_scaled.jpg" title="Image" caption="" %}
+{% include image.html img="pics/IMG_20150407_122013_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150407_122013.jpg" %}
 What is it with you and cliffs, Holger?!
 
 We had initially thought we'd just hike the way up to the ancient ruins on top. And we started doing just that, in the mid-day heat and without a complaint. But then Holger spied a car about to pass us. We decided that, while of course we were hardcore, we weren't donkeys, so we'd take the ride offered to us, thank you very much!
 
 Up at the top we goofed around on the cliffs for a spell,  before climbing up to the ruins of [Ancient Thera](http://en.wikipedia.org/wiki/Ancient_Thera)
 
-{% include image.html img="pics/IMG_20150407_130153_scaled.jpg" title="Image" caption="" %}
+{% include image.html img="pics/IMG_20150407_130153_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150407_130153.jpg" %}
 
-{% include image.html img="pics/IMG_20150407_134019_scaled.jpg" title="Image" caption="" %}
+{% include image.html img="pics/IMG_20150407_134019_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150407_134019.jpg" %}
 
-{% include image.html img="pics/IMG_20150407_135538_scaled.jpg" title="Image" caption="" %}
+{% include image.html img="pics/IMG_20150407_135538_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150407_135538.jpg" %}
 
 Having taken the easy way out on the ascent, we figured that we could easily do the descent on our own. But then Holger spied a car...well, you can see where this is going. 
 
@@ -44,9 +44,9 @@ Down at the beach we went for a quick swim, observed by an audience of Chinese t
 
 Back in town we grabbed a quick dinner before picking up a few beers and heading back for the beach.
 
-{% include image.html img="pics/IMG_20150407_162900_scaled.jpg" title="Image" caption="" %}
+{% include image.html img="pics/IMG_20150407_162900_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150407_162900.jpg" %}
 
-{% include image.html img="pics/IMG_20150407_165155_scaled.jpg" title="Image" caption="" %}
+{% include image.html img="pics/IMG_20150407_165155_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150407_165155.jpg" %}
 Relaxing after a hard day's work. And yes, those rocks were all warmed up by the sun. I felt like a lizard. A lizard with a beer and a smartphone.
 
 Afterwards we took a bus back to Fira, had a pretty unspectacular dinner and a few more beers with said Albanian hostel clerk. 
