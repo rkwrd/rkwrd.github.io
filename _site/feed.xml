@@ -853,19 +853,59 @@ Every. Single. Time. The more often I observe this phenomenon, the funnier it ge
 
 &lt;p&gt;Grumpiness nonwithstanding, I began to wonder if I was onto something as I noticed the massive ancient stonewalls surrounding part of the port. Intrigued I took some detours and found myself striding through a silent park and through gates in the walls. The air was cool and rich with the smell of blooming trees and bushes. Just as I reached the other side of the port, the horizon lit up. I found myself staring at the sun rising over the Turkish coast in the distance. For half an hour I just stood there, watching as the sunlight washed over the harbor, the marina and the small cafes and restaurants on the promenade.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_060416_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_060416_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_061419_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_061419_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_061936_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-Right, THIS is why I’m doing this!&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_061936_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;Right, THIS is why I’m doing this!&lt;/p&gt;
 
 &lt;p&gt;Suddenly a lot less grumpy, I wandered off towards the city centre, along the beach. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_064703_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_064703_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_065408_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-This, right here!&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_065408_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;This, right here!&lt;/p&gt;
 
 &lt;p&gt;Considerably reassured about the purpose of my travels I found a place renting out apartments and sat down on the stairs overlooking the still street.&lt;/p&gt;
 
@@ -880,10 +920,26 @@ This, right here!&lt;/p&gt;
 
 &lt;p&gt;I also recall taking a long walk through Kos’ impressive marina. The entire thing was a charming mixture of clear blue water and…well, lots of boats. I don’t really know anything about boats. Most of them where white, relatively shiny and somewhere between “somewhat large” and “definitely very large indeed”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_095450_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_095450_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_095444_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-Do you think this thing would be fast?&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150413_095444_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;Do you think this thing would be fast?&lt;/p&gt;
 
 &lt;p&gt;Looking decidedly out of place I resolved to walk around very purposefully. I also spent some serious time devising witty answers in case anybody asked me which one of the boats was mine. “Oh, just browsing, really. You got anything you’d recommend for whaling?”
 Unfortunately, I must have walked so purposefully that people were just too intimidated to stop and ask me. &lt;/p&gt;
@@ -903,7 +959,15 @@ Unfortunately, I must have walked so purposefully that people were just too inti
         <description>&lt;h2 id=&quot;eastersaturday&quot;&gt;Easter…Saturday?&lt;/h2&gt;
 &lt;p&gt;The day after all the sparks and stuff was pretty low-key. I recall spending most of the day either reading, eating or napping. Judging from my photographs of that day, I must have spent a good share of the day with a cat sleeping on my chest. A recurring theme: I’m writing these lines with a 6-week old kitten sleeping snuggled in my fleece jacket. Don’t believe me? Joke’s on you!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150420_153626_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150420_153626_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;In the evening we wanted to go see the fireworks. A guy working at the hostel had gotten us all excited about it. He used the words “homemade bombs” and “loud as hell”, so of course we wanted to go. He had even shown us a few videos from his hometown, which really did look like the world was coming to an end in a hurricane of colourful lights and explosions.&lt;/p&gt;
 
@@ -928,31 +992,87 @@ That’s just asking for it, isn’t it?&lt;/p&gt;
 
 &lt;p&gt;The next morning the common room was quiet. Most of our group had ended the evening rather late and were still out of commission. The few survivors - the dauntless Finn and his Spanish friend - suggested heading for Oia. We walked around for a spell and I used the opportunity to re-shoot all the rainy pictures I had taken when I was there with my friend Holger.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_124956_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_124956_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_125904_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_125904_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Somehow we figured it might be fun to take a small boat to  the island of Thirasia which was visible in the distance (previous picture, island on the upper right). So we began to look for a path down to the small port. The path we found consisted of a long series of looping, serpentine stairs. Sound familiar?&lt;/p&gt;
 
 &lt;p&gt;This descent was a bit more hurried though, as we saw a small boat approaching the port from the direction of Thirasia. This being a public holiday, we figured that missing that particular boat could well mean not getting another chance.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_130851_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_130851_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_131058_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_131058_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Apart from one local, we were the only passengers as the small boat set off and zipped across the waves to Thirasia.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_131346_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_131346_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Upon arrival, Thirasia looked like it had been left there by somebody and then forgotten. The port was somewhat charming with its sleepy looks, but empty.&lt;/p&gt;
 
 &lt;p&gt;We had lunch in a restaurant right on the beach. The place was somewhat minimalist (little furniture, fewer guests), and the owner had the dirtiest hands I have ever seen on a human being. He turned out to be incredibly friendly (I think he was - we couldn’t really find a language we shared) and the Easter lamb that was served was delicious. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_135832_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-Exhibit A: Before roast.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_135832_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;Exhibit A: Before roast.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_135836_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-Exhibit B: After roast.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_135836_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;Exhibit B: After roast.&lt;/p&gt;
 
 &lt;p&gt;After a generous meal and an even more generous helping of various desserts, our host offered to drive us to town. In many ways it seems to be true that the further you get off the mainstream destinations, the more helpful and friendly people become. &lt;/p&gt;
 
@@ -960,12 +1080,28 @@ Exhibit B: After roast.&lt;/p&gt;
 
 &lt;p&gt;We ended up seeing more donkeys than we saw people. Even finding something to drink turned out to be impossible, since the few people we saw insisted their restaurants were closed, and the donkeys had no suggestions either.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_145414_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_145414_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Properly roasted by the sun we arrived back at the harbor. The lure of that azure-blue water was just impossible to resist, so Jarno and I decided to go for a quick swim. Just to give you an impression:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_162035_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-The water here must have been around 2-2.5m deep.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150412_162035_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;The water here must have been around 2-2.5m deep.&lt;/p&gt;
 
 &lt;p&gt;Eventually, we made our way back to the pier, where we boarded the boat together with a group of French hikers, most of them quite middle-aged.&lt;/p&gt;
 
@@ -995,11 +1131,35 @@ The water here must have been around 2-2.5m deep.&lt;/p&gt;
 
 &lt;p&gt;I took a few pictures of the sunset but they turned out blurry, since I simply could not stand still in that wind. My Finnish friend did a little better, so I’ll just post his pictures instead (thanks, Jarno!):&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/P4100112_scaled.JPG&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/P4100112_scaled.JPG&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/P4100107_scaled.JPG&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/P4100107_scaled.JPG&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_193452_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_193452_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;From up there, we also noticed the lights that had been placed on every wall, every roof and every pillar in town. Not candles, as we had imagined, but tin cans filled with wood shavings and candle wax. Keep this in mind, this will get important in a minute!&lt;/p&gt;
 
@@ -1015,25 +1175,81 @@ The water here must have been around 2-2.5m deep.&lt;/p&gt;
 
 &lt;p&gt;Dutifully, I attempted to take a few pictures, but I don’t think they really reflect the sheer intensity of those moments up on that church roof:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_205155_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_205155_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_205211_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_205211_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Eventually, I decided to climb down from there. The wind threatened to throw me on my face, off the roof or both. Instead I joined the others in front of the church and we headed back down through the town. Not before taking a few more pictures near the top though:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/P4100110_scaled.JPG&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/P4100110_scaled.JPG&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_210602_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_210602_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/P4100094_scaled.JPG&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/P4100094_scaled.JPG&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/P4100109_scaled.JPG&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/P4100109_scaled.JPG&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Afterwards we navigated the labyrinth of passages and stairs. We also had the decidedly weird experience of walking right through a choir of priests and the congregration. As in: right between the priest and the singing congregation. “Excuse me - so sorry - my bad!”&lt;/p&gt;
 
 &lt;p&gt;Eventually we reached the foot of the hill. As we looked back, we saw the very image that countless photographers had captured before us: Pyrgos, on the hill, as a sea of shimmering lights in the dark.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_213237_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_213237_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;It took us a while to pull ourselves away from this sight. We weaseled our way through what had become dense traffic at the foot of the hill and called a cab. After finding our cab and being stuck in traffic for the better part of 20 minutes, we finally managed to drive back to Fira, the brightly lit hill left behind us.&lt;/p&gt;
 
@@ -1049,13 +1265,29 @@ The water here must have been around 2-2.5m deep.&lt;/p&gt;
 
 &lt;p&gt;Your friend has left the island and you’re settled in in your hostel, awaiting your ferry’s departure the next day. But then you hear whispers in the common room about ferries getting canceled due to the storm, so you go out and check. A look down from the main road seems to support that rumor:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_084952_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_084952_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Just as the first heavy drops fall you reach the travel agency, and yes, ferry traffic has been cancelled. Outside, stray dogs and cats run for shelter. Probably for the best not to be on a boat right now. The ticket gets moved to the next ferry, which leaves on Sunday night. If the storm has calmed by then, which it might. Or might not. You know how islands are, says the friendly lady with a shrug. Since there is not much you can do you  flick up your collar and step outside and get drenched on the way to the bakery next door. Armed with coffee and a sandwich you half-walk, half-run back to the hostel. Since plenty of other people are just as stranded as you are, most of the guests are sitting in the common room. So you settle in for the day and get to know the others, which include a guy from Finland and a girl from Norway. So far so good. So you end up spending the day watching Taken 3 and Wild Card and being generally useless, while outside the palms are whipped back and forth by gusts of wind. Sunset happens without anyone noticing, because the sky was pretty dark to begin with. After a day holed up in the hostel you sneak off to bed.&lt;/p&gt;
 
 &lt;p&gt;The next morning, lo and behold, the skies have cleared. The wind is still coming in powerful gusts, but the sky is mostly blue. So you decide to be less useless than you were yesterday and set out to explore the cliff-side of Fira. 220 meter above the sea, the cold wind sucks all the warmth right out of your clothes. This part of the town is pretty, but devoid of substance: Bars for tourists. Souvenir stores for tourists. Restaurants for tourists. Without tourists, the area is mostly empty. The view however, is stunning:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/PANO_20150410_114642_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/PANO_20150410_114642_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Sitting there, staring down into the water, you notice a path leading all the way down to the sea and the old port. So you try to find a way to the beginning of that path, which isn’t easy because whoever planned this city had no plan at all. What you absolutely don’t do is climb over lower walls or gates when you get frustrated. No sir, not even when nobody’s looking.&lt;/p&gt;
 
@@ -1070,13 +1302,29 @@ Tourist: &quot;Ohhh...you mean PEE-RAY-US!&quot;
 
 &lt;p&gt;Nestled between the cliffs, the path is somewhat protected from the cold winds and you can feel the heat radiating from the cobbles under your feet. You smell the sun on the stones, the salt of the sea and, again, manure?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_121258_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-The avenue in question.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_121258_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;The avenue in question.&lt;/p&gt;
 
 &lt;p&gt;You turn onto the start of a serpentine stretch of shallow stairs, and suddenly you understand where all that manure comes from: Donkeys. Not horses, because that would be stupid. No, donkeys. Apparently there is a class of people who are too lazy to walk but too outdoors-y to take the cable car. For those people the locals have two or three dozen donkeys shuttling tourists up and down the stairs. And covering those stairs in donkey poop in the process, evidently.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_121335_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-One of the furry culprits.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150410_121335_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;One of the furry culprits.&lt;/p&gt;
 
 &lt;p&gt;But of course you wouldn’t be caught dead on one of those four-legged mobility scooters, you’ll walk. So you pass the group of donkeys currently being loaded with a few tourists. You see one of the donkeys strutting off towards a wall at a casual pace. The British teenager riding it begins to scream in panic. In slow-motion she begins to tip out of the saddle, suddenly hanging on with one hand and one leg only. For an instant, the other donkeys seem to shake their collective heads in disgust.&lt;/p&gt;
 
