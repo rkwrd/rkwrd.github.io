@@ -24,7 +24,7 @@ The owner of an inn showed me to my room in one of the original Ottoman houses. 
 
 The next morning I asked my host to show me the shower. He revealed quite an interesting setup: You know those squatting toilets? Hole-in-the-ground model? The ones we just don't _do_ in The West? 
 
-![image](http://rkwrd.github.io/pics/IMG_20150426_181246_scaled.jpg){: .center-image }
+{% include image.html img="pics/IMG_20150426_181246_scaled.jpg" title="Image" caption="" %}
 (This picture was actually taken at a restaurant, but you get the idea)
 
 So the shower was this, plus a shower head. A small room of 1.5 x 1.5m, the showerhead, the hole-in-the-ground and no window. After overcoming my initial confusion, I managed to take a shower of sorts and also flooded the entire room.
@@ -33,19 +33,19 @@ Now I understand that the UNESCO award probably discourages architectural innova
 
 Next, I went out to take a look at the city and get breakfast. The town was...old. That much was clear. The good parts around the centre were old and nice. Two- and three-storey houses built from dark wood and whitewashed stone walls. Some restaurants and many stores. Safranbolü was, in its day, an important trading post, where Saffron was grown and traded. Consequently, everything you can buy there is Saffron-this or Saffron-that. You name it, somebody found a way of putting Saffron in it. I will give them credit for Saffron-flavoured Turkish Delight though, that stuff is delicious!
 
-![image](http://rkwrd.github.io/pics/IMG_20150426_104251_scaled.jpg){: .center-image }
+{% include image.html img="pics/IMG_20150426_104251_scaled.jpg" title="Image" caption="" %}
 
-![image](http://rkwrd.github.io/pics/IMG_20150426_193605_scaled.jpg){: .center-image }
+{% include image.html img="pics/IMG_20150426_193605_scaled.jpg" title="Image" caption="" %}
 
 Now, the less-good parts of town were old and crap. Decrepit, dilapidated buildings. Broken windows, wonky doors. Rusting carcasses of cars left on the roadside, from where they would never move again on their own (I hope). Garbage strewn about the neighbourhood. I quickly made my way through this area and out into the countryside surrounding the village. 
 
 As the sun broke through the cloud cover, I began to enjoy myself. My walk led me to a tall fence at the foot of a hill. A gate in the fence stood open. I followed the path to a sign advertising a cafe, and then onwards from there. Suddenly I noticed that the ground to the left of the path dropped away into nothingness. Confused, I walked over and found myself looking down into a deep gorge, with water running along the bottom. The further I followed the gorge, the deeper and wider it became, until I saw the very cafe I was looking for nestled deep down in the canyon.
 
-![image](http://rkwrd.github.io/pics/IMG_20150426_105733_scaled.jpg){: .center-image }
+{% include image.html img="pics/IMG_20150426_105733_scaled.jpg" title="Image" caption="" %}
 
-![image](http://rkwrd.github.io/pics/IMG_20150426_105808_scaled.jpg){: .center-image }
+{% include image.html img="pics/IMG_20150426_105808_scaled.jpg" title="Image" caption="" %}
 
-![image](http://rkwrd.github.io/pics/IMG_20150426_105758_scaled.jpg){: .center-image }
+{% include image.html img="pics/IMG_20150426_105758_scaled.jpg" title="Image" caption="" %}
 
 And that's how I ended up having breakfast in a canyon! After taking a look around the gorge, I strode back into town and did some shopping. Later that day I walked up to one of the hills surrounding the old town and had a look at the historical clocktower there. No pictures, you know what that means. 
 

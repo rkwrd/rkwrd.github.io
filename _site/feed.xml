@@ -21,10 +21,26 @@
 
 &lt;p&gt;Halfway through the journey we had a break at a reststop near the massive salt lake Tuz. This is where the following, highly symbolic photograph was taken by an unknown artist:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150430_125203_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-Okay, yes, it was me. It symbolizes the salty lake-ness in which we sit. Allegorically.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150430_125203_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;Okay, yes, it was me. It symbolizes the salty lake-ness in which we sit. Allegorically.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150430_125209_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150430_125209_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;As we continued onwards (again, around 15 minutes late), I was left wondering: Isn’t Cappadocia known for it’s cliffs and hills and such? The landscape all around me looked mostly flat. Somewhat hilly at best. It would stay that way until we arrived in Nevşehir, where we changed buses. &lt;/p&gt;
 
@@ -36,36 +52,116 @@ Okay, yes, it was me. It symbolizes the salty lake-ness in which we sit. Allegor
 
 &lt;p&gt;Disregarding the suggestions of our host, we just picked a random direction and then followed the first incline up  towards the rocky ridges surrounding the town. On the way there we stopped amazed by the stone columns which stood all over the city. Each of them was higher than the houses around it, and all of them showed various entrances, windows, pidgeonholes and staircases cut from the rock.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150430_160952_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150430_160952_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150430_165859_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150430_165859_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150430_161218_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150430_161218_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Once we climbed up on the nearest ridge, we stood frozen for a while, just amazed by the view:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150430_162204_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150430_162204_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150430_162822_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-So-called ‘fairy chimneys’&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150430_162822_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;So-called ‘fairy chimneys’&lt;/p&gt;
 
 &lt;p&gt;If you look closely, you can see a small bird on top of one of the columns. It made a fantastically ridiculous “Whoop-whoop!” sound. I want one of those birds!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150430_164139_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150430_164139_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;In the end, we decided to take a shortcut back into town. This largely meant sliding down steep rocksides, some of which were clearly the ‘roofs’ of cave hotels and apartments. We had a lot of fun and nobody died, so it was worth it!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150430_165457_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150430_165457_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;After a quick dinner we walked up to the so-called sunset point, a cafe nestled on top of a cliff overlooking Göreme. The place was fairly crowded with tourists, but the view was something to behold. The three of us sat on the cliff edge and watched the sun slowly drop towards one of the table mountains around the city. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150430_191314_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150430_191314_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150430_192905_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150430_192905_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Once the sun disappeard, we remained there for a long time. The city below us turned dark and one by one, lights appeared in the darkness. Brightly lit billboards, streetlights and lights behind windows all over the city. A flock of sparrows swooped this way and that over our heads, feeding on the insects of the valley. One by one, the tourists left the sunset spot. As night fell, our seats on the cliff got colder and colder, until we decided to head back. After another quick meal, we walked back to the hostel and turned in.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150430_200853_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150430_200853_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;h2 id=&quot;roadtrip&quot;&gt;Roadtrip&lt;/h2&gt;
 
@@ -81,7 +177,15 @@ So-called ‘fairy chimneys’&lt;/p&gt;
 
 &lt;p&gt;On the way to the next step, Selime Monastery, our guide explained some historical background of the area, both in terms of its history and its geology. With regards to the latter, he was able to explain the formation of those ‘fairy chimneys’: Cappadocia’s top layers consist of very dense, heavy and dark basalt rock with a layer of spongy, brittle and white tufa underneath. Wind, extreme temperature changes (-25°C in winter, +40°C in summer), rain and melting snow erode the two layers. First, they dig away at the basalt on top, leaving those characteristic conical shapes. Then they start chipping away the softer stone below. However, by then the weight of the basalt on top will have compressed the softer stone underneath. Thus, it will not erode right under the basalt cones but only around them. Over time, this leaves those characteristic formations which look like…well, like chimneys, alright.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150502_123602_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150502_123602_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Over time, the local people dug into them and built houses inside. Smoke rising from cooking fires throught openings at the top supposedly led travelers to believe that they were occupied by fairies.&lt;/p&gt;
 
@@ -118,24 +222,80 @@ So-called ‘fairy chimneys’&lt;/p&gt;
 &lt;h2 id=&quot;underrated&quot;&gt;Underrated!&lt;/h2&gt;
 &lt;p&gt;The late afternoon found me walking north through the city center and up into the neighbourhood of the university. Past a concert hall advertising its rendition of ‘Carmen’ and through a nice little park.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150427_191437_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150427_191437_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150427_191346_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150427_191346_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150427_191637_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150427_191637_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150427_191921_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150427_191921_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150427_191422_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-Is it me or does that fountain look like a cat on a bicycle?&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150427_191422_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;Is it me or does that fountain look like a cat on a bicycle?&lt;/p&gt;
 
 &lt;p&gt;The next day I made the acquaintance of an Australian hostel guest (Hi, Marc!), and through him I also met a Yemeni pilot  (Hi, Mohamed!) who was actually living in Turkey. Together we did some more meandering in the city. For example, we visited Kocatepe Mosque, the biggest mosque in Ankara. Marc and I were a bit surprised to learn that the mosque actually had a shopping centre in its basement. Yeup, didn’t see that coming. Despite this somewhat strange property arrangement, the mosque itself is beautiful: Serene on the outside, ornate and lofty on the inside.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150428_134359_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
--&amp;gt;The mosque in question. It’s big.&amp;lt;-&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150428_134359_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;-&amp;gt;The mosque in question. It’s big.&amp;lt;-&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150428_134752_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-It’s also big on the inside, and rather pretty.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150428_134752_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;It’s also big on the inside, and rather pretty.&lt;/p&gt;
 
 &lt;p&gt;We passed the evening in a bar which had beer and nargile. You know, that pipe-thingy with the hose-thingies, which people think won’t kill them because the water miraculously filters out all the cancer…&lt;/p&gt;
 
@@ -143,18 +303,50 @@ It’s also big on the inside, and rather pretty.&lt;/p&gt;
 
 &lt;p&gt;The next day we decided to go climb up to Ankara’s castle. The castle is well-positioned on a hill overlooking much of the city and actually so old nobody has dated its construction with any certainty. When the Galatians turned up around 300 BCE, they found the castle and started using it for themselves. So there is that.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150429_155102_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-Why does everything have to be either an incline or stairs?&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150429_155102_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;Why does everything have to be either an incline or stairs?&lt;/p&gt;
 
 &lt;p&gt;The castle is also located in a part of town which a friend of mine (Hallo, Holger!) called “historical” and which I would call “shitty”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150429_155603_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150429_155603_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150429_161738_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-Up in the castle&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150429_161738_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;Up in the castle&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150429_162742_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-View down from the castle.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150429_162742_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;View down from the castle.&lt;/p&gt;
 
 &lt;p&gt;In the castle there wasn’t a whole lot to do, besides take in the view or have coffee in a cafe tucked away in the corner. After a while we got bored and headed back down into town.&lt;/p&gt;
 
@@ -194,8 +386,16 @@ I got bored in Istanbul and decided to head further eastwards. Some research on 
 
 &lt;p&gt;The next morning I asked my host to show me the shower. He revealed quite an interesting setup: You know those squatting toilets? Hole-in-the-ground model? The ones we just don’t &lt;em&gt;do&lt;/em&gt; in The West? &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150426_181246_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-(This picture was actually taken at a restaurant, but you get the idea)&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150426_181246_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;(This picture was actually taken at a restaurant, but you get the idea)&lt;/p&gt;
 
 &lt;p&gt;So the shower was this, plus a shower head. A small room of 1.5 x 1.5m, the showerhead, the hole-in-the-ground and no window. After overcoming my initial confusion, I managed to take a shower of sorts and also flooded the entire room.&lt;/p&gt;
 
@@ -203,19 +403,59 @@ I got bored in Istanbul and decided to head further eastwards. Some research on 
 
 &lt;p&gt;Next, I went out to take a look at the city and get breakfast. The town was…old. That much was clear. The good parts around the centre were old and nice. Two- and three-storey houses built from dark wood and whitewashed stone walls. Some restaurants and many stores. Safranbolü was, in its day, an important trading post, where Saffron was grown and traded. Consequently, everything you can buy there is Saffron-this or Saffron-that. You name it, somebody found a way of putting Saffron in it. I will give them credit for Saffron-flavoured Turkish Delight though, that stuff is delicious!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150426_104251_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150426_104251_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150426_193605_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150426_193605_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Now, the less-good parts of town were old and crap. Decrepit, dilapidated buildings. Broken windows, wonky doors. Rusting carcasses of cars left on the roadside, from where they would never move again on their own (I hope). Garbage strewn about the neighbourhood. I quickly made my way through this area and out into the countryside surrounding the village. &lt;/p&gt;
 
 &lt;p&gt;As the sun broke through the cloud cover, I began to enjoy myself. My walk led me to a tall fence at the foot of a hill. A gate in the fence stood open. I followed the path to a sign advertising a cafe, and then onwards from there. Suddenly I noticed that the ground to the left of the path dropped away into nothingness. Confused, I walked over and found myself looking down into a deep gorge, with water running along the bottom. The further I followed the gorge, the deeper and wider it became, until I saw the very cafe I was looking for nestled deep down in the canyon.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150426_105733_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150426_105733_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150426_105808_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150426_105808_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150426_105758_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150426_105758_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;And that’s how I ended up having breakfast in a canyon! After taking a look around the gorge, I strode back into town and did some shopping. Later that day I walked up to one of the hills surrounding the old town and had a look at the historical clocktower there. No pictures, you know what that means. &lt;/p&gt;
 
@@ -262,35 +502,107 @@ I got bored in Istanbul and decided to head further eastwards. Some research on 
 
 &lt;p&gt;Since Istanbul is home to around 14 million people, it has at least four large coach stations. Helpfully, the coach driver had woken me at the one closest to the area I was going to stay in, called Sultanahmet. At this hour however, the massive coach station was deserted. The sun was not up yet, so the entire site was grey buildings, grey tarmac and grey skies. I shouldered my backpack and just walked around for a few minutes to see where exactly I had to go. It turned out that the station was around 11-12 subway stops away from where I wanted to go. Since the metro seemed like the easiest mode of transport anyway, I went looking for the metro station. Just like your typical bloody tourist would, I ended up wandering all over the coach station, mistakenly walking into at least one storage building and one underground garage. I finally found the metro station (cleverly hidden right in the middle of the coach station). From there, it was a relatively straight forward trip east towards Sultanahmet.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150419_181125_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150419_181125_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Sultanahmet, the east-most part of the city’s European half, is its oldest and most famous district. It contains the Hagia Sophia, the Blue Mosque, the ancient Hippodrome, the Topkapi Palace and several museums. It is the most tourist-y part of town with many hotels and hostels. It is also where I found &lt;em&gt;my&lt;/em&gt; hostel, which I immediately identified as such because they had kittens!&lt;/p&gt;
 
 &lt;p&gt;Overall, I think that cats are alright. Sure, I took a few pictures. But it’s not like I’m a crazy cat person with dozens of pictures of kittens on their phone. Just a few:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150424_230757_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150424_230757_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150419_071918_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150419_071918_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150419_223358_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150419_223358_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Okay, one more:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150420_153635_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150420_153635_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Is there such a thing as a “cat habit”? You know, like a “coke habit”?&lt;/p&gt;
 
 &lt;p&gt;I stayed in Istanbul for five or six days (no, I really can’t tell). Since I had been to the city before, I had gotten most of the big sights out of the way already. So this time around I spend most days just walking around and exploring the more lived-in districts. Ironically, I took no pictures there, so here are some more common views instead:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150420_181632_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150420_181632_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150420_181328_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150420_181328_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150421_185657_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150421_185657_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;On most days this meant 6-hour walks. On two days, the weather was actually so terrible that I barely left the hostel, except for food/coffee.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150422_125934_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150422_125934_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;Yeup, that’s sleet. From the thunderstorm which nearly flooded Gülhane Park in a torrential downpour.&lt;/p&gt;
 
@@ -313,13 +625,45 @@ I got bored in Istanbul and decided to head further eastwards. Some research on 
 
 &lt;p&gt;I also used the occasion to visit the famous Topkapi palace, which I hadn’t seen during my last trip. The palace is a mindbogglingly ornate affair located at the northern tip of Sultanahmet. It served as residence of the Ottoman sultans 15th-19th century. Today, it’s a UNESCO site with lots of visitors and almost as many selfie-sticks. Seriously, people: You have arms, right? What the hell is the world coming to?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150422_172556_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150422_172556_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150422_172644_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150422_172644_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150422_173056_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150422_173056_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150422_175536_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150422_175536_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;I remember being thoroughly impressed by two exhibits in the palace:
 Firstly, the scrolls and calligraphy in the privies. The amount of detail in the carvings above pales in comparison with the granularity and precision shown in the religious manuscripts. Unfortunately I did not take any pictures of them, but their effect is startling: You tend to get lost in the levels of detail. Every pattern is made up of smaller, more intricate patterns, which in turn contain their own symmetries and rules. Taking pictures of these with a cellphone camera seemed a bit pointless…&lt;/p&gt;
@@ -400,18 +744,50 @@ Every. Single. Time. The more often I observe this phenomenon, the funnier it ge
 
 &lt;p&gt;In Izmir, my exploits mainly consisted of walking around the city and chugging liters of coffee at coffee shops on the promenade. Neither of those lends itself to terribly impressive pictures, so here are few generic ones instead:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150416_192251_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-The promenade.&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150416_192251_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;The promenade.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150416_114732_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-I like that people in Turkey actually take care of the stray cats and dogs. Looking at you, Greece!&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150416_114732_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;I like that people in Turkey actually take care of the stray cats and dogs. Looking at you, Greece!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150416_115507_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;
-This left me giggling for at least five minutes. Mainly because of &lt;a href=&quot;https://www.youtube.com/watch?v=5nRzh4CJTZs&quot;&gt;this clip from the show Community&lt;/a&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150416_115507_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
+&lt;p&gt;This left me giggling for at least five minutes. Mainly because of &lt;a href=&quot;https://www.youtube.com/watch?v=5nRzh4CJTZs&quot;&gt;this clip from the show Community&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Thankfully, even at mediocre hostels you meet interesting people. Case in point: I spend a day with a delightful couple from Australia and two students from the US.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://rkwrd.github.io/pics/IMG_20150418_194815_1_scaled.jpg&quot; alt=&quot;image&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150418_194815_1_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+    
+&lt;/div&gt;
 
 &lt;p&gt;After a few days, I got restless in Izmir. Looking at a map I began to hear Istanbul calling, and that call just didn’t feel like it could be denied. &lt;/p&gt;
 
