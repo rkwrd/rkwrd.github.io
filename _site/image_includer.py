@@ -87,3 +87,14 @@ def copy_and_scale(filename):
 includeIMG()
 
 
+'''
+Automated Testing:
+	1. Every thumbnail referenced in *.md a) exists and b) has the right dimensions
+	2. Every fullsize-image referenced a)exists and b) has the right dimensions
+	3. All files in /pics/ have names conforming to the following rule: IMG\_d{6}\_.{6}\.jpg
+
+
+'''
+
+
+
