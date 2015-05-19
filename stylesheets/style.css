@@ -249,7 +249,7 @@ ul.posts .datetime {
 
 section.post {
   margin: 0 -60px;
-  text-align: left;
+  text-align: justify;
   border-top: 0;
   padding: 0; }
   section.post > * {
