@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cappadocia, part III - Hiking, climbing and loads of pictures"
+title: "Cappadocia, part III - Hiking and climbing"
 date: 2015-05-06 20-10-24
 published: true
 ---
