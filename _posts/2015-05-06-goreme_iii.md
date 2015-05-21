@@ -5,7 +5,10 @@ date: 2015-05-06 20-10-24
 published: false
 ---
 
-Oh dear, this article is going to be heavy on the images...
+Brace for a storm of landscape shots!
+
+##The valley
+
 The next day, Marc and I met Michael (from Poland) over breakfast. The three of us decided to go for a casual morning hike in one of the valleys (Kiliclar vadisi). The weather was gorgeous and the three of us picked a route which followed almost none of the suggested paths.
 
 ![image](http://www.escapingsloth.com/pics/IMG_20150502_103945_scaled.jpg)
@@ -47,12 +50,54 @@ On the way down into the valley the three of us almost died, falling into a 6-8m
 
 As you can see, the fairy chimneys have a very characteristic shape. I will leave it to you to figure out what exactly the two gentlemen were doing here:
 
-/Users/arne/ownCloud/Camera Uploads/IMG_20150502_124452.jpg
+![image](http://www.escapingsloth.com/pics/IMG_20150502_124452_scaled.jpg)
 
 
-/Users/arne/ownCloud/Camera Uploads/IMG_20150502_124008.jpg
+![image](http://www.escapingsloth.com/pics/IMG_20150502_124008_scaled.jpg)
 
 
+##The castle
+
+Having seen the valley, we headed back to town in time for lunch. Marc and I were both scheduled to leave Göreme in the evening, but that would leave us the afternoon to do some more exploring. We decided on taking a minibus up to the castle which loomed over Pidgeon Valley.
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_144623_scaled.jpg)
+
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_144837_scaled.jpg)
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_144918_scaled.jpg)
+
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_151118_scaled.jpg)
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_151356_scaled.jpg)
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_153009_scaled.jpg)
+
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_153439_scaled.jpg)
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_153523_scaled.jpg)
+
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_153528_scaled.jpg)
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_153533_scaled.jpg)
+
+
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_153852_scaled.jpg)
+
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_162044_scaled.jpg)
+
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_162153_scaled.jpg)
+
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_163230_scaled.jpg)
+
+![image](http://www.escapingsloth.com/pics/IMG_20150502_163507_scaled.jpg)
 
 
 
