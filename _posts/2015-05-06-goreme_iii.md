@@ -9,7 +9,7 @@ Brace for a storm of landscape shots!
 
 ##The valley
 
-The next day, Marc and I met Michael (from Poland) over breakfast. The three of us decided to go for a casual morning hike in one of the valleys (Kiliclar vadisi). The weather was gorgeous and the three of us picked a route which followed almost none of the suggested paths.
+The next day, Marc and I met Michal (from Poland) over breakfast. The three of us decided to go for a casual morning hike in one of the valleys (Kiliclar vadisi). The weather was gorgeous and the three of us picked a route which followed almost none of the suggested paths.
 
 {% include image.html img="pics/IMG_20150502_103945_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150502_103945.jpg" %}
 
@@ -27,7 +27,7 @@ We started out by walking past (and through) some of the deserted rock houses. H
 
 From the ridge, we climbed down into one of the smaller valleys, and for once followed a path for a while. Next, we tried to scale one of the opposite ridges, which took us over an hour. The white rock you see in the pictures is tufa, which is soft and porous at the best of times. Often enough, the rock itself was covered by layers of sand and dust, which looked just like the rockface itself. As we found out, it was utterly unsuited for even light climbing. So many times when we though we had finally found a decent route out of the valley, we had to track back after feeling our hands slip in the layers of white dust. On the plus-side, we ran into this magnificent little dinosaur!
 
-{% include image.html img="pics/IMG_20150502_114608_scaled.jpg" title="Image" caption="Foreground: Turtle, Background: Marc and Michael" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150502_114608.jpg" %}
+{% include image.html img="pics/IMG_20150502_114608_scaled.jpg" title="Image" caption="Foreground: Turtle, Background: Marc and Michal" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150502_114608.jpg" %}
 
 After several failed attempts, we finally found a way up on the rock, where we looked magnificent against the backdrop of the valley.
 
@@ -102,7 +102,7 @@ Eventually, we found a way out of the valley. As we couldn't find a bus back, we
 
 {% include image.html img="pics/IMG_20150502_163230_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150502_163230.jpg" %}
 
-Back in Göreme, I said my goodbyes to Marc and Michael and got on my coach to Samsun. Yes, the one I had complained about previously, that one.
+Back in Göreme, I said my goodbyes to Marc and Michal and got on my coach to Samsun. Yes, the one I had complained about previously, that one.
 
 **Sidenote:** If you go to Turkey, try to make time for Cappadocia. Just like Pammukale, it's a unique landscape and certainly worth seeing. Next time I go there, I will definitely do one of those balloon tours which are largely accident free, but were booked out for the days we were there. I would also bring a proper camera to take some nicer pictures.
 
