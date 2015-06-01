@@ -2,11 +2,14 @@
 layout: post
 title: "35 litres of stuff"
 date: 2015-05-29 20-10-24
-published: false
+published: true
 ---
-*"Is that it?"*  {: .a-r}
 
-*-- She* {: .a-r}
+<div align="right" style="color:gray">
+  "Oh, is that it?"<br>
+  -- She <br>
+</div>
+
 
 Several times other travelers asked me where the rest of my stuff is. Many are surprised to find out that I only carry one medium-sized backpack.
 
@@ -25,7 +28,7 @@ On the one hand, it must be nice to have everything you could possibly need with
 
 So I decided against it. After all, I was going to stay in civilization (or whatever passes for it) for most of the time. I knew I would be able to buy additional things as needed. This also meant that I would leave typical hiking-gear, like a hiking boots, tent and sleeping bag. 
 
-(I understand that Travelers of the female persuasion tend to carry more stuff. The social consensus seems to be that the whole smelly-but-somehow-handsome-in-a-rugged-way look is male-only. Lucky me!)
+(I understand that travelers of the female persuasion tend to carry more stuff. The social consensus seems to be that the whole smelly-but-somehow-handsome-in-a-rugged-way look is male-only. Lucky me!)
 
 I would just bring the basics then. When I inspected my gear before leaving Samsun, I took this picture:
 
@@ -59,8 +62,7 @@ Plus, of course, the clothes I was wearing.
 The vacuum bags are incredibly useful: They are heavy-duty ziplock-bags with one-way valves on the lower end. You stick your clothes in there and then roll the bag to press out all the air. This way, my clothes shrink to less than half their volume. In addition, the bags keep them dry and protect them from that typical bag-smell. I'm absolutely amazed by these bags and I could kick myself for not getting them earlier. This compactness obviously doesn't do anything about the weight, so my backpack is a bit heavier then it looks.
 
 
-{% include image.html img="pics/IMG_20150522_113213_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150522_113213.jpg" %}
-(All my clothes put into those two vacuum bags)
+{% include image.html img="pics/IMG_20150522_113213_scaled.jpg" title="Image" caption="All my clothes put into those two vacuum bags" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150522_113213.jpg" %}
 
 And here is all that stuff packed up nicy and tidy:
 
