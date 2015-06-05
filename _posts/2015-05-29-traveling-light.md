@@ -4,7 +4,6 @@ title: "35 litres of stuff"
 date: 2015-05-29 20-10-24
 published: true
 ---
-
 <div align="right" style="color:gray">
   "Oh, is that it?"<br>
   -- She <br>
