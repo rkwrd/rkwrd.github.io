@@ -1,4 +1,10 @@
-#What about 'dem Greeks?
+---
+layout: post
+title: "What about 'dem Greeks?"
+date: 2015-06-05 20-10-24
+published: false
+---
+
 
 Most of my friends come from tech-y/science-y backgrounds, like maths, physics, engineering or computer science. As a social scientist I'm the odd one out because I don't really have a favorite equation and rarely have to resort to using pre-greek alphabets in calculations. But ever since those Greeks started messing with our beloved common currency, I've had people quietly ask me how that whole story would continue. **Will Greece remain in the Eurozone?**
 
