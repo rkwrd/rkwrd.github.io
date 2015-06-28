@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Tbilisi II - Davit Goreji"
+title: "Tbilisi II - David Gareja"
 date: 2015-06-06 20-10-24
-published: false
+published: true
 ---
 
 The articles here are still almost a month behind my actual itinerary. Normally I would deal with the mounting feeling of guilt by taking a nap and then using the boost of energy to clean the kitchen or look up cat videos on Youtube.
@@ -17,7 +17,7 @@ In Tbilisi I ended up spending little time on sightseeing, but rather more on so
 
 In a way, that's what the choice between hotels and hostels comes down to: Would you rather talk to waiters and room service or other travelers?
 
-![image](http://www.escapingsloth.com/pics/IMG_20150531_001046_scaled.jpg)
+{% include image.html img="pics/IMG_20150531_001046_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150531_001046.jpg" %}
 
 ##Airport? No.
 
@@ -25,7 +25,7 @@ Between the meals and nights out, I managed to clarify the situation regarding m
 
 The first attempt, I walked to the embassy (for about 90 minutes). Unfortunately, the place had closed down 10 minutes before I reached it. The opening hours listed on the website were out of date, apparently. 
 
-![image](http://www.escapingsloth.com/pics/IMG_20150526_123904_scaled.jpg)
+{% include image.html img="pics/IMG_20150526_123904_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150526_123904.jpg" %}
 
 On the upside, I found a nice park along the way.
 
@@ -34,63 +34,65 @@ Instead, he helpfully directed us towards a visa service agency, which would app
 
 Now I had met other travelers (tourists!) who had gotten into Iran on those airport visas very recently, no problem. Plus, all Iranian government websites stated the Visa-on-Arrival was still an option. So technically, I could have just booked my ticket and hoped for the best. However, this meant running the risk of being rejected at the airport and then being forced to book a pricy flight out on the spot. I decided to trust the charming man from the embassy and leave my Iran visit for another journey.
 
-##Davit Goreji
+##David Gareja
 
-With that sorted, I decided to explore the Tbilisi area some more. Luckily, I had met some interesting people at the hostel before (Hi, Rene!) and we decided to do a day-trip to the Davit Goreji monastery right on the Georgian-Azerbaijani border.
+With that sorted, I decided to explore the Tbilisi area some more. Luckily, I had met some interesting people at the hostel before (Hi, Rene!) and we decided to do a day-trip to the David Gareja monastery right on the Georgian-Azerbaijani border. The orthodox monastery was founded in the 6th century and consists of dozens of chapels, caves and buildings. Today, the area is the object of a border dispute between Georgia and Azerbaijan. 
 
 We picked a tour operator near Liberty Square and were directed to a waiting car. It must have been a slow day, because it was only the two of us, an Italian guy and an Austrian lady, and the driver. He would drive us to the monastery, we would complete a short hike there and then be driven back. Luckily, our driver was very accommodating of our tourist-y desire to take pictures of...everything and stopped frequently along the way.
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_122615_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_122615_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_122615.jpg" %}
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_125258_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_125258_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_125258.jpg" %}
 
 The monastery itself turned out to be a fairly low-key affair: It is still operating (monks are still monking) and thus much of it is off-limits.
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_132417_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_132417_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_132417.jpg" %}
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_132451_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_132451_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_132451.jpg" %}
 
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_132625_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_132625_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_132625.jpg" %}
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_133331_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_133331_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_133331.jpg" %}
 
 Leaving the monastery behind, we started our hike up the cliff towards the Azerbaijani border. The temperature must have hovered around 35°C and the path was baked solid by the sun. The path was also quite steep, so after a short while we were all sweat-soaked.
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_135138_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_135138_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_135138.jpg" %}
 
 (Is that humming in your head the sign of an oncoming headache? You haven't drunk enough water, clearly. And no aspirin on you. Yep, definitely a headache. One of those pulsing ones. Ka-CHOCK....Ka-CHOCK. Awesome.)
 
 After a few hundred meters of steep ascent we reached the top of the ridge. There, sitting on a huge rock, we found two Azerbaijani soldiers on watch, who called us in on their radio. Interestingly enough, they did not check our passports or require any documents. And thus we sat foot into Azerbaijan. The view from up there was stunning:
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_141130_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_141130_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_141130.jpg" %}
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_141250_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_141250_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_141250.jpg" %}
 
 We then followed a footpath along the ridge and found several small caves with wallpaintings and inscriptions. All of these were outlying parts of the monastery and still used as places of worship.
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_142018_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_142018_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_142018.jpg" %}
 
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_142106_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_142106_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_142106.jpg" %}
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_142528_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_142528_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_142528.jpg" %}
 
 Eventually, we made our way up to the peak of the ridge, where we checked back in with two Georgian soldiers sitting in the shade of a chapel there. We ended up spending half an hour just admiring the landscape and trying to snap a few good shots of the enormous birds of prey that circled around us:
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_145448_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_145448_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_145448.jpg" %}
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_145910_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_145910_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_145910.jpg" %}
 
 Afterwards, we climbed down the other side of the ridge, back towards the car.
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_151705_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_151705_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_151705.jpg" %}
 
-On the way back, we had a lunch-stop in the town of [[ulumulu]]. As these things go, the only restaurant there was operated by our driver's parents. Their entire community had been relocated to this area after their hometown in Svaneti had been devastated by a rockslide. The Soviets had begun building a completely new town for them, when the UssR collapsed and the money ran out.
+On the way back, we had a lunch-stop in the town of Udabno. As these things go, the only restaurant there was operated by our driver's parents. Their entire community had been relocated to this area after their hometown in Svaneti had been devastated by a rockslide. The Soviets had begun building a completely new town for them, when the USSR collapsed and the money ran out.
  
-![image](http://www.escapingsloth.com/pics/IMG_20150529_160822_scaled.jpg)
+{% include image.html img="pics/IMG_20150529_160822_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150529_160822.jpg" %}
 
-After a quick lunch there, we gave their pups a final pat and headed back to Tbilisi.
+After a quick lunch there, we all slept through the entire drive back to Tbilisi.
 
-![image](http://www.escapingsloth.com/pics/IMG_20150529_164545_scaled.jpg)
+----
+
+1300 words! On a sunday, no less! Next time: Another episode of "Wanna come?" - "Sure, why not?" with mountains, sheep and chacha - nectar of the gods and terror of mankind.
 
