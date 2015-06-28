@@ -7,7 +7,7 @@ published: true
 
 The articles here are still almost a month behind my actual itinerary. Normally I would deal with the mounting feeling of guilt by taking a nap and then using the boost of energy to clean the kitchen or look up cat videos on Youtube.
 
-Unfortunately the nap as out of the question: It's impossible to find a sleeping position in which my lobstered skin doesn't cause me to suffer dreams of hellfire, father-of-the-year King Stannis or the Vietnam war. Turns out, the colour of your skin can cause lots of problems. Who knew?
+Unfortunately the nap is out of the question: It's impossible to find a sleeping position in which my lobstered skin doesn't cause me to suffer dreams of hellfire, father-of-the-year King Stannis or the Vietnam war. Turns out, the colour of your skin can cause lots of problems. Who knew?
 
 In the absence of decent excuses I'm now sitting in the living room, not-sipping my not-coffee (because Ramadan). As its rich, smokey flavour not-fills my mouth, I'm thinking that I might as well get on with the writing.
 
