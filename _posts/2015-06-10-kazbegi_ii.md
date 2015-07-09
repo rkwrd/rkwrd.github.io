@@ -34,7 +34,7 @@ Technically, the hike would take around three hours, if we were to follow the lo
 
 About half-way up I must have stopped cursing because I couldn't afford to waste the oxygen. Luckily, by the time I reached the top and found Manu smirking down at me, I had caught my breath again.
 
-{% include image.html img="pics/IMG_20150601_143102_scaled.jpg" title="Image" caption="" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150601_143102.jpg" %}
+{% include image.html img="pics/IMG_20150601_143102_scaled.jpg" title="Image" caption="A true mountain goat!" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150601_143102.jpg" %}
 
 The church was built in the 14th century and looked wonderfully rustic. While it was not permitted to take pictures inside the church, the building itself and the fantastic scenery were enough to keep us occupied for a long time. 
 
