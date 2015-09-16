@@ -5,8 +5,6 @@ date: 2015-09-16 22-18-24
 published: true
 ---
 
-#Travel - A luxury!
-
 I'm traveling from the sleepy town of Ella (Sri Lanka) to the city of Cebu (Philippines). Here's how that works out. Spoiler: I spend about 52 hours in transit. Don't do that, it's retarded.
 
 ##The walk
