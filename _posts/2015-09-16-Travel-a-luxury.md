@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Travel, a luxury
 date: 2015-09-16 22-18-24
 published: true
 ---
