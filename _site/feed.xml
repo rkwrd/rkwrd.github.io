@@ -30,20 +30,6 @@
 &lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-    &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150804_054006.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150804_054006_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
-    
-    &lt;/a&gt;
-    
-    
-        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
-    
-&lt;/div&gt;
-
-&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150804_063752.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
         &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150804_063752_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
@@ -51,7 +37,7 @@
     &lt;/a&gt;
     
     
-        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+        &lt;p class=&quot;image-caption&quot;&gt;First sunrise in the lower Himalayas&lt;/p&gt;
     
 &lt;/div&gt;
 
@@ -67,7 +53,7 @@
     &lt;/a&gt;
     
     
-        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+        &lt;p class=&quot;image-caption&quot;&gt;The rest stop&lt;/p&gt;
     
 &lt;/div&gt;
 
@@ -115,7 +101,7 @@
     &lt;/a&gt;
     
     
-        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+        &lt;p class=&quot;image-caption&quot;&gt;Downtown Manali&lt;/p&gt;
     
 &lt;/div&gt;
 
@@ -131,7 +117,7 @@
     &lt;/a&gt;
     
     
-        &lt;p class=&quot;image-caption&quot;&gt;&lt;/p&gt;
+        &lt;p class=&quot;image-caption&quot;&gt;The view from my room&lt;/p&gt;
     
 &lt;/div&gt;
 
