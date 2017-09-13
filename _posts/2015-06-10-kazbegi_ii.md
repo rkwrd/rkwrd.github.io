@@ -11,7 +11,7 @@ Now it's midnight and I'm sitting in the bath, listening to [Beirut - Port of Ca
 ---
 
 
-##Day 2 - Lazy mornings and steep ascents
+## Day 2 - Lazy mornings and steep ascents
 
 The next morning my mouth tasted like death and felt as if a hamster had slept on my tongue. I got up with agonizing slowness, trying not to wake the pain hiding behind my temples.
 
