@@ -8,7 +8,7 @@ published: true
 All in all I spent about 3 weeks in Bahrain, staying with my friend Andrew who graciously showed me around. This was my first time in the middle east, so here are a few assorted observations. Seriously, it's 01:00h here and I had a few beers...if you expect a coherent narrative you came to the wrong place.
 
 
-##Still pretty warm
+### Still pretty warm
 
 Bahrain is a desert country. No surprises there.
 
@@ -31,7 +31,7 @@ All of this seems perfectly plausible to the locals. My favourite remark: "But y
 
 
 
-##It's Ramadan
+### It's Ramadan
 About halfway through my stay in Bahrain, Ramadan started. I was familiar with the concept on an individual level but not quite prepared for what it looks like on a societal level. For the period between 18.06. and 17.07. public life slowed down to allow the population time for introspection, their faith and reconnecting with family and loved ones.
 
 They were also not supposed to consume anything between sunrise and sunset. In Bahrain this is taken seriously as far as public life is concerned: You can't eat in public. Or drink (even water). Or smoke. Or chew gum. Any one of those things is grounds for a stint in a cell and a hefty fine.
@@ -39,7 +39,7 @@ They were also not supposed to consume anything between sunrise and sunset. In B
 As a result, any place serving food or drink is closed during the day. Good way to avoid temptation, I guess. But once the sun sinks below the horizon...
 
 
-##Food is amazing. I like food.
+### Food is amazing. I like food.
 The food. Oh my god, the food! As you'd expect, not eating during the day gets people quite excited about food! As a result, the meals available after sunset are just astonishing in quantity. 
 
 {% include image.html img="pics/IMG_20150619_211319_scaled.jpg" title="Image" caption="No doubt that's exactly what the inventor intended..." url="http://www.escapingsloth.com/pics/fullsize/IMG_20150619_211319.jpg" %}

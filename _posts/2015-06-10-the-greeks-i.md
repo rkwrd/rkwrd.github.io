@@ -16,7 +16,7 @@ As a matter of principle I'm only friends with people who are either smarter tha
 
 ----
 
-###Current situation
+### Current situation
 As of 2015, Greece's economy is down on its knees as a result of various aftereffects of the 2007/2008 global financial crisis. These troubles have heavily damaged Greece's national economy, its standing in financial markets, the reputation of its government and the standard of living of its citizens. The outcome of different aspects of the crisis is evident in some very basic indicators:
 
 * GDP: 356bn USD (2008) -> 242bn USD (2013) (Worldbank)
@@ -27,7 +27,7 @@ As of 2015, Greece's economy is down on its knees as a result of various afteref
 
 Ouch. These figures alone show clearly, that Greece is generating significantly less economic output than before, which also accrues to fewer people. This generates less tax revenue for the government, which is sinking deeper and deeper into debt. It's lowered credit rating means that potential lenders demand a higher risk premium. Consequently, the capital needed to pay off debt is borrowed at an increasingly high cost. 
 
-###Importance of the Eurozone
+### Importance of the Eurozone
 
 For better or worse, no country is an island (not even the UK, geography nonwithstanding) and Greece is entangled in a number of international arrangements. First and foremost it's a EU member state, and part of the Eurozone. It's membership in the [[currency union]] has shown itself to be both blessing and curse:
 
@@ -71,7 +71,7 @@ For
 
 
 
-###What's next
+### What's next
 [[]]
 In summary: Greece snuck into the Euro to benefit from the higher credit-worthiness of the currency union. that has become a burden in the time of crisis, both to greece and the euro countries. 
 [[]]

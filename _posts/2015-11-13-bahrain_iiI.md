@@ -12,7 +12,7 @@ published: false
 
 
 
-##Expats being expats
+### Expats being expats
 Like the other Emirates, Bahrain depends on foreign workers, both for low-income service jobs and highly qualified specialist positions. As a result, the country's population is made up of around 46% Bahrainis, 45% Asians and assorted other groups.
 
 While this seems high, consider the UAE as a whole: A whopping 19% of the population is Emirati (according to the CIA World Factbook, and the CIA never makes mistakes). The reasons for this  is that they hire out for every job the can't or won't do themselves.

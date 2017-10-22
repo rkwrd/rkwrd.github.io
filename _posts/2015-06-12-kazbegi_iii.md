@@ -11,7 +11,7 @@ Aren't these story-in-a-story things fun? So artistic, much wow!
 
 ----
 
-##Day 3 - Waterfalls
+### Day 3 - Waterfalls
 We had arranged our departure from Kazbegi for the third day. Before we left this beautiful part of the world we wanted to see one last sight though: The waterfall at Gveleti.
 
 Our driver from the day before drove us up towards the Russian border for about half an hour, before letting us hop out into the sun. After some back and forth (employing the usual amount of waving and pointing), we understood where he wanted us to go and we stalked off into the greenery.
@@ -39,7 +39,7 @@ Having seen this sight, we decided that it was time we drove back to Tbilisi. I 
 {% include image.html img="pics/IMG_20150603_131417_scaled.jpg" title="Image" caption="Russian-Georgian Friendship Monument...hehe, yeah, I know!" url="http://www.escapingsloth.com/pics/fullsize/IMG_20150603_131417.jpg" %}
 
 
-## Back in Tbilisi
+###  Back in Tbilisi
 
 In Tbilisi, I checked back into the same excellent hostel I had stayed at before. I then spent another four days in Tbilsi, enjoying the usual dinners and drinks with the others.
 

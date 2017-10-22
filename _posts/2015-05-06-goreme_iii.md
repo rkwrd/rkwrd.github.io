@@ -7,7 +7,7 @@ published: true
 
 Brace for a storm of landscape shots!
 
-##The valley
+### The valley
 
 The next day, Marc and I met Michal (from Poland) over breakfast. The three of us decided to go for a casual morning hike in one of the valleys (Kiliclar vadisi). The weather was gorgeous and the three of us picked a route which followed almost none of the suggested paths.
 
@@ -56,7 +56,7 @@ As you can see, the fairy chimneys have a very characteristic shape. I will leav
 
 
 
-##The castle
+### The castle
 
 Having seen the valley, we headed back to town in time for lunch. Marc and I were both scheduled to leave Göreme in the evening, but that would leave us the afternoon to do some more exploring. We decided on taking a minibus up to the castle which loomed over Pidgeon Valley.
 

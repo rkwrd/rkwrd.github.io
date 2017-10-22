@@ -11,7 +11,7 @@ Now it's midnight and I'm sitting in the bath, listening to [Beirut - Port of Ca
 ---
 
 
-### Day 2 - Lazy mornings and steep ascents
+###  Day 2 - Lazy mornings and steep ascents
 
 The next morning my mouth tasted like death and felt as if a hamster had slept on my tongue. I got up with agonizing slowness, trying not to wake the pain hiding behind my temples.
 
@@ -48,7 +48,7 @@ We passed the evening with a decent dinner in town. I can't recall if anybody or
 
 
 
-### Day 3 - Truso Valley and Juta
+###  Day 3 - Truso Valley and Juta
 
 The next day we managed to get moving a bit earlier. With the help of our host we had actually found a much cheaper driver who turned up with a 8-seater Delica. That particular model seemed almost impossibly common in Stepantsminda.
 

@@ -5,14 +5,14 @@ date: 2015-04-12 12-30-24
 published: true
 ---
 
-##Santorini
+### Santorini
 
 We reached our hostel in Fira, the biggest city on the island, after dark and checked in. Afterwards we went for a short walk around the city centre. Despite it being pre-season, the main roads were already teeming with tourists. Most of them from China, it seemed, and mostly congregating in front of the numerous Chinese restaurants. As we eventually found out from a Albanian hostel clerk, groups of Chinese tourists travel to Santorini during the more affordable pre- and post-season and annoy the locals through extreme stinginess.
 
 After a quick bite to eat we headed back to the hostel. Upon closer inspection, the rooms and especially the bathrooms turned out to be very...rustic. Wait, no: rusty. And somewhat grimy, too.
 
 
-###Kamari Beach and Ancient Thera
+### Kamari Beach and Ancient Thera
 
 The next morning we got up and headed for the bus station to take a bus to Kamari beach in the southeast of the island. After a short ride through scenic, if sleepy parts of the island we arrived in Kamari and wandered towards the beach. 
 
@@ -52,7 +52,7 @@ Relaxing after a hard day's work. And yes, those rocks were all warmed up by the
 Afterwards we took a bus back to Fira, had a pretty unspectacular dinner and a few more beers with said Albanian hostel clerk. 
 
 
-###Oia (pronounced [ˈi.a])
+### Oia (pronounced [ˈi.a])
 
 The next day we decided to take a bus to Oia, the scenic town in Santorini's northeast. If you get a postcard from the island, this is the town that's going to be on there. It perches on the cliff overlooking the horseshoe-shape of the island and the vulcano in its middle. The town looks strangely organic as the white houses are built into the rock at random levels and seem to flow into one another. Narrow stairwells and footpaths connect the buildings. Everything is either white, or a light shade of blue. In bright sunlight the town would be blinding. Just as well: It was rainy and overcast as we got there. We walked around the buildings, most of which were either hotels, restaurants, art galleries or jewellery stores. Where the locals live (or if there are any locals to begin with) I couldn't say. Deserted as it was, the town seemed like a nice destination, but I'd hate to be caught there in the middle of tourist season. I'd imagine the crowds there to be suffocating.
 

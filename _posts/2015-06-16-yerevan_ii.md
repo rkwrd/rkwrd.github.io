@@ -9,7 +9,7 @@ So here's the deal: I'm in Sri Lanka. My last article was in Armenia. That's way
 
 ----
 
-##First Impressions
+### First Impressions
 
 I'm bad with first impressions. By that I mean: I tend to get a bad first impression places and people. One of the main reasons is that I'm a certifiable retard in terms of scheduling my travels. As a result, I often arrive in new places at night, which I deal with badly. There is something about setting foot into a new city after dark that feels like stepping out into the dark jungle. By that point I'm usually tired (and grumpy), which isn't really the mindset for exploration or adventure. 
 
