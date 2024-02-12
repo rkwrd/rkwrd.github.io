@@ -3,8 +3,31 @@
   <channel>
     <title>Escaping Sloth</title>
     <description>...very slowly</description>
-    <link>http://escapingsloth.com</link>
-    <atom:link href="http://escapingsloth.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Words on a Page</title>
+        <description>&lt;p&gt;I see you what you wrote - you wrote words on a page.&lt;/p&gt;
+
+&lt;p&gt;I see them lie there, and they are weak and sad and I despise them for it. I want to give them a kick, to scream at them “GET UP!” - why would you leave us with this travesty? Am I to make them grow somehow? Should I help them stand when you could not make them stand on their own?&lt;/p&gt;
+
+&lt;p&gt;Your words should be a storm and a hammer and they should raise the hairs on my neck. They should etch blazing lines into the sky, pointing from dusty past to brilliant future. A road of fire, from your heart to mine, to be walked by the bold and the brave. Instead: Words on a page - no fire, no spark, not even a burp because, heaven forbid, somebody might hear and look at your work. What is the point if you will not make me cower before your roar? Why write at all, if you cannot - okay, okay, between you and me, you know - listen…come here…trust me, when I say: Why write if you cannot lure me closer to the page with a whisper? Bend me to your will with a turn of phrase, and make me follow every line as if gripped by a fever.&lt;/p&gt;
+
+&lt;p&gt;Here is what I learned about writing long ago: We don’t. There is no writing. All writing is speech, and has to be, or else: words on page. Writing does not speak to people - people speak to people. Sometimes speech is cast in substrate to give it reach and endurance, written for the world to read. Like steel quenched, it gives up all compromise - but like steel, it needs to be tempered, to give it spring. It is humanity - person speaking to person - that gives written speech that murderous flex, that keen ringing you hear in the air.&lt;/p&gt;
+
+&lt;p&gt;But you speak to nobody. Your words are not speech, they are just…left. Speech, speech is force and creation and near to magic and the old arts. Wielding speech is not for the timid, and your fearful mumbling is a stain on those pages, and an outrage to me.&lt;/p&gt;
+
+&lt;p&gt;I want to stride through your wretched paragraphs, a hundred meters tall, leaving burning pages in my wake. I will see your timid phrases shattered and burning in my boot prints. And, grabbing fragments and shards left and right, I will in that wasteland build anew. Build bigger and stronger and bolder - and build a shining beacon to show others: Look here, the magic is alive still!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I found myself editing a tender bid today and was dismayed by the defensive, tepid language tacked together by the authors. Sure, it’s writing for business, we are mindful of technical nuance and compliance and regulations - but come on, let’s have some fun with those slides!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Oct 2022 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2022/10/03/words-on-a-page/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/10/03/words-on-a-page/</guid>
+      </item>
     
       <item>
         <title>An Instant most Germanic</title>
@@ -19,8 +42,8 @@
 &lt;p&gt;When I reach the intersection right behind the train station I’m surprised to see another person already standing at the traffic light, waiting to cross. On the opposite side of the road, another guy is waiting for the light to change, steadfastly refusing to jaywalk in front of witnesses. I walk up to the light and stand next to the first guy. Looking around, I see that there isn’t a single car in the intersection. Nor in either one of the roads leading up to the intersection, nor anywhere in sight. The city is quiet, only the wind is whistling through the streets. We stand quietly, waiting for the light to change. Eventually, an older guy on a bicycle stops on the other side of the crossing and dismounts. The traffic light remains red, we remain standing. The gust of wind ebbs and in the distance a church bell can be heard. Still, no traffic in sight, but the light remains red and so we stand. The guy next to me gives a quick, sarcastic snort. Seeing the absurdity of the situation the gents on the other side of the road begin to chuckle quietly, and I join in, too. For a moment we are joined by the realization of the absurdity of our behaviour, then the chuckling dies down and the night turns quiet once more. An instant later the wind picks up again, then the light turns and without any further comment we each cross the road and go our seperate ways into the night.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Feb 2019 00:00:00 +0100</pubDate>
-        <link>http://escapingsloth.com/2019/02/07/An-Instant-most-Germanic/</link>
-        <guid isPermaLink="true">http://escapingsloth.com/2019/02/07/An-Instant-most-Germanic/</guid>
+        <link>http://localhost:4000/2019/02/07/An-Instant-most-Germanic/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/07/An-Instant-most-Germanic/</guid>
       </item>
     
       <item>
@@ -89,8 +112,8 @@
 
 </description>
         <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
-        <link>http://escapingsloth.com/2019/01/03/nuwara-eliya/</link>
-        <guid isPermaLink="true">http://escapingsloth.com/2019/01/03/nuwara-eliya/</guid>
+        <link>http://localhost:4000/2019/01/03/nuwara-eliya/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/03/nuwara-eliya/</guid>
       </item>
     
       <item>
@@ -122,8 +145,8 @@
 
 </description>
         <pubDate>Sun, 03 Dec 2017 00:00:00 +0100</pubDate>
-        <link>http://escapingsloth.com/2017/12/03/beirut/</link>
-        <guid isPermaLink="true">http://escapingsloth.com/2017/12/03/beirut/</guid>
+        <link>http://localhost:4000/2017/12/03/beirut/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/03/beirut/</guid>
       </item>
     
       <item>
@@ -142,8 +165,8 @@
 
 </description>
         <pubDate>Fri, 15 Jul 2016 00:00:00 +0200</pubDate>
-        <link>http://escapingsloth.com/2016/07/15/bombay_train/</link>
-        <guid isPermaLink="true">http://escapingsloth.com/2016/07/15/bombay_train/</guid>
+        <link>http://localhost:4000/2016/07/15/bombay_train/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/15/bombay_train/</guid>
       </item>
     
       <item>
@@ -163,7 +186,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_123218.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_123218_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_123218_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -179,7 +202,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_144242.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_144242_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_144242_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -201,7 +224,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_150050.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_150050_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_150050_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -217,7 +240,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_145233.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_145233_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_145233_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -237,7 +260,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_152109.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_152109_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_152109_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -253,7 +276,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_152547.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_152547_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_152547_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -279,8 +302,8 @@
 
 </description>
         <pubDate>Sat, 11 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://escapingsloth.com/2016/06/11/manali_ii/</link>
-        <guid isPermaLink="true">http://escapingsloth.com/2016/06/11/manali_ii/</guid>
+        <link>http://localhost:4000/2016/06/11/manali_ii/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/06/11/manali_ii/</guid>
       </item>
     
       <item>
@@ -309,7 +332,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150804_063752.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150804_063752_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150804_063752_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -325,7 +348,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150804_054223.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150804_054223_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150804_054223_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -343,7 +366,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150804_064820.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150804_064820_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150804_064820_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -357,7 +380,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150804_075520.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150804_075520_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150804_075520_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -373,7 +396,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_130202.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_130202_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_130202_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -389,7 +412,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150804_093759.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150804_093759_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150804_093759_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -401,8 +424,8 @@
 &lt;p&gt;Here, Boris sought out the owner and affectionately yelled at him until he grudlingly accepted Boris’ suggestion that I really should be allowed to get a double room for about 3 USD per night. This sounded just fine to me, so I dumped my bag in my new room and then enjoyed the view from my balcony for a bit before heading into town for a late breakfast.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Mar 2016 00:00:00 +0100</pubDate>
-        <link>http://escapingsloth.com/2016/03/24/manali/</link>
-        <guid isPermaLink="true">http://escapingsloth.com/2016/03/24/manali/</guid>
+        <link>http://localhost:4000/2016/03/24/manali/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/03/24/manali/</guid>
       </item>
     
       <item>
@@ -430,7 +453,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_081926.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_081926_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_081926_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -452,7 +475,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_084753.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_084753_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_084753_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -468,7 +491,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_085144.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_085144_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_085144_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -486,7 +509,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_085404.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_085404_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_085404_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -504,7 +527,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_090529.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_090529_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_090529_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -520,7 +543,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_091650.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_091650_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_091650_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -534,7 +557,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_092039.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_092039_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_092039_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -550,7 +573,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_094630.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_094630_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_094630_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -568,7 +591,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_111654.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_111654_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_111654_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -581,8 +604,8 @@
 
 </description>
         <pubDate>Wed, 03 Feb 2016 00:00:00 +0100</pubDate>
-        <link>http://escapingsloth.com/2016/02/03/agra-taj-mahal/</link>
-        <guid isPermaLink="true">http://escapingsloth.com/2016/02/03/agra-taj-mahal/</guid>
+        <link>http://localhost:4000/2016/02/03/agra-taj-mahal/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/02/03/agra-taj-mahal/</guid>
       </item>
     
       <item>
@@ -606,7 +629,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150726_171556.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150726_171556_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150726_171556_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -622,7 +645,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150726_172105.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150726_172105_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150726_172105_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -640,7 +663,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150726_173759.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150726_173759_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150726_173759_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -656,7 +679,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150726_174122.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150726_174122_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150726_174122_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -669,8 +692,8 @@
 
 </description>
         <pubDate>Fri, 04 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://escapingsloth.com/2015/12/04/delhi_iii/</link>
-        <guid isPermaLink="true">http://escapingsloth.com/2015/12/04/delhi_iii/</guid>
+        <link>http://localhost:4000/2015/12/04/delhi_iii/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/04/delhi_iii/</guid>
       </item>
     
       <item>
@@ -701,55 +724,8 @@
 
 </description>
         <pubDate>Fri, 04 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://escapingsloth.com/2015/12/04/delhi_ii/</link>
-        <guid isPermaLink="true">http://escapingsloth.com/2015/12/04/delhi_ii/</guid>
-      </item>
-    
-      <item>
-        <title>Delhi I - First Night, part 1</title>
-        <description>&lt;div align=&quot;right&quot; style=&quot;color:gray&quot;&gt;
-&quot;Write drunk, edit sober!&quot;
--- Alcoholics
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m currently in Hoi An, a lovely seaside-town in eastern Vietnam. So why is this post titled “Delhi”, you may wonder. Well, the reasons are complicated, but they involve a very generous restaurant owner, at least 7 shots of rice wine and the realization that if I can’t be bothered to write about certain parts of my journey you probably couldn’t be bothered to read about them either.&lt;/p&gt;
-
-&lt;p&gt;In that spirit - and several others - I’ll procrastinate writing more about the Middle East by writing about my arrival in India instead.&lt;/p&gt;
-
-&lt;p&gt;I’ll say this much up front: Of the countries I visited during this trip, India was the one that felt strangest to me. In terms of getting out of my comfort zone, it was a fantastic success. It was also a series of impressions and experiences that made what else I saw of Southeast Asia seem…tame.&lt;/p&gt;
-
-&lt;p&gt;India felt extreme in several ways. Some things were extremely pleasant, others extremely annoying. As a result, India probably had the strongest effect on my perspective.
-Was that a consistently pleasant experience? Well…&lt;/p&gt;
-
-&lt;h3 id=&quot;arriving-in-delhi&quot;&gt;Arriving in Delhi&lt;/h3&gt;
-&lt;p&gt;I reached Delhi around 11pm, after a short layover in Abu Dhabi. Obviously I had some images in my head, but the airport really didn’t match them: Turns out, Delhi Airport is actually very new, very clean and suspiciously quiet.&lt;/p&gt;
-
-&lt;p&gt;After a long day I was glad to see that my eVisa carried me through immigration without too many questions (I did get fingerprinted though). I had booked a hotel in advance and was eager to find it and go to sleep. Luckily the airport terminal has a direct metro connection to the city centre. While trying to figure out the ticket system, I started chatting with two local university students who had just returned from a trip to Europe and took me under their wings, making sure I got off the metro at the right stop, namely New Delhi Station.&lt;/p&gt;
-
-&lt;p&gt;So that was lovely. I got out there and took a tuktuk (hehe) to my hotel. And that’s where that evening suddenly turned around.&lt;/p&gt;
-
-&lt;h3 id=&quot;my-point-of-view&quot;&gt;My point-of-view&lt;/h3&gt;
-
-&lt;p&gt;I’m worldly and well-traveled, easily adapting to a new city like a shark smoothly sliding into a new current.&lt;/p&gt;
-
-&lt;p&gt;We are cruising past Connaught Place, a circular area full of shops and bars, one of Delhi’s central sights. The night is lively, but cooler than Oman and calmer than I expected of India. Suddenly the driver pulls over and asks me to repeat the address of my hotel. I read it out to him. His English is tough to understand but he wants to know which block the hotel is at. I don’t know, the email doesn’t say and I don’t have internet to check. Not to worry, he says, he’ll just drive me to the Government Tourist Information and they’ll find out.&lt;/p&gt;
-
-&lt;p&gt;I decline and show him the map on my phone, telling him to just drive up there. He insists on going to the tourist information, telling me that the area around my hotel is cordoned off for a festival and he can’t drive there. This seems weird, because I didn’t see any blockades or signs and it’s really rather quiet. After about 5 minutes of arguing I relent and tell him to just get on with it.&lt;/p&gt;
-
-&lt;p&gt;He then drives to an unassuming-looking building down the road with a big sign saying “Government Tourist Information”, stops and ushers me in. I’m greeted by a middle-aged man with a badge clipped to his shirt and he invites me to sit down in an office. The shelves are full of travel guides, brochures and a few framed official-looking documents and letters.&lt;/p&gt;
-
-&lt;p&gt;He then tells me that the city is a bit out of control due to a big festival taking place in the centre. When he looks up my hotel on a map he finds out that, yeup, it’s definitely blocked off right now. The internet connection is down at the moment, but we can call my hotel from his office. I read the number to him and he passes me the handset. I recite my booking code into the handset and I’m being told that yes, the hotel is difficult to reach right now, but they’ll think of something and call me back. Lovely.&lt;/p&gt;
-
-&lt;p&gt;Tourist-information-guy then tells me that it might be difficult to find alternative accommodation tonight, since every hotel is going to be booked out because of the festival. Pretty much impossible to find anything under 150 USD a night, really. But I could spend a few days in one of the surrounding cities, do some sightseeing. He proposes to put together a nice tour around Rajasthan, maybe a week or so including all the major sighs and cities. A nice idea, but unfortunately his plan for one week costs about as much as I budget for a month. So maybe I would like to take a private car to Agra tonight, see the Taj Mahal tomorrow? A cheap way of evading all the hassle with the festival and all? He quotes me 200 USD for that, which seems…steep. I politely decline. Man, at this point I’m getting proper sleepy.&lt;/p&gt;
-
-&lt;p&gt;Eventually the hotel rings back, informing me that regrettably they could not find a way of getting me there. Of course they’ll refund me for it, but I’ll have to find another place to stay. A bit of a blow for me, because I wasn’t planning on spending 150 USD on a single night and my new friend really didn’t know any hotel that would have cheaper rooms available. Checking online would help, but the internet connection is still down.&lt;/p&gt;
-
-&lt;p&gt;Eventually, around one o’clock he does think of one or two places that might be a bit cheaper. The tuktuk driver, who has been faithfully waiting outside agrees to drive me there after getting the address from the tourist information. I almost fall asleep on the way and get hotel room at the other end of the city. I haggle the price down to 70 USD, go up to my room and pass out on the bed immediately.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 03 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://escapingsloth.com/2015/12/03/delhi/</link>
-        <guid isPermaLink="true">http://escapingsloth.com/2015/12/03/delhi/</guid>
+        <link>http://localhost:4000/2015/12/04/delhi_ii/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/04/delhi_ii/</guid>
       </item>
     
   </channel>
