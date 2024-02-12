@@ -3,8 +3,8 @@
   <channel>
     <title>Escaping Sloth</title>
     <description>...very slowly</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://escapingsloth.com</link>
+    <atom:link href="http://escapingsloth.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Words on a Page</title>
@@ -25,8 +25,8 @@
 &lt;p&gt;I found myself editing a tender bid today and was dismayed by the defensive, tepid language tacked together without any appreciation for language. Sure, it is writing for business, we are mindful of technical nuance and compliance and regulations - but come on, let’s have some fun with those slides!&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Feb 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2024/02/12/words-on-a-page/</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/02/12/words-on-a-page/</guid>
+        <link>http://escapingsloth.com/2024/02/12/words-on-a-page/</link>
+        <guid isPermaLink="true">http://escapingsloth.com/2024/02/12/words-on-a-page/</guid>
       </item>
     
       <item>
@@ -42,8 +42,8 @@
 &lt;p&gt;When I reach the intersection right behind the train station I’m surprised to see another person already standing at the traffic light, waiting to cross. On the opposite side of the road, another guy is waiting for the light to change, steadfastly refusing to jaywalk in front of witnesses. I walk up to the light and stand next to the first guy. Looking around, I see that there isn’t a single car in the intersection. Nor in either one of the roads leading up to the intersection, nor anywhere in sight. The city is quiet, only the wind is whistling through the streets. We stand quietly, waiting for the light to change. Eventually, an older guy on a bicycle stops on the other side of the crossing and dismounts. The traffic light remains red, we remain standing. The gust of wind ebbs and in the distance a church bell can be heard. Still, no traffic in sight, but the light remains red and so we stand. The guy next to me gives a quick, sarcastic snort. Seeing the absurdity of the situation the gents on the other side of the road begin to chuckle quietly, and I join in, too. For a moment we are joined by the realization of the absurdity of our behaviour, then the chuckling dies down and the night turns quiet once more. An instant later the wind picks up again, then the light turns and without any further comment we each cross the road and go our seperate ways into the night.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Feb 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/02/07/An-Instant-most-Germanic/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/02/07/An-Instant-most-Germanic/</guid>
+        <link>http://escapingsloth.com/2019/02/07/An-Instant-most-Germanic/</link>
+        <guid isPermaLink="true">http://escapingsloth.com/2019/02/07/An-Instant-most-Germanic/</guid>
       </item>
     
       <item>
@@ -112,8 +112,8 @@
 
 </description>
         <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019/01/03/nuwara-eliya/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/01/03/nuwara-eliya/</guid>
+        <link>http://escapingsloth.com/2019/01/03/nuwara-eliya/</link>
+        <guid isPermaLink="true">http://escapingsloth.com/2019/01/03/nuwara-eliya/</guid>
       </item>
     
       <item>
@@ -145,8 +145,8 @@
 
 </description>
         <pubDate>Sun, 03 Dec 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2017/12/03/beirut/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/03/beirut/</guid>
+        <link>http://escapingsloth.com/2017/12/03/beirut/</link>
+        <guid isPermaLink="true">http://escapingsloth.com/2017/12/03/beirut/</guid>
       </item>
     
       <item>
@@ -165,8 +165,8 @@
 
 </description>
         <pubDate>Fri, 15 Jul 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2016/07/15/bombay_train/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/07/15/bombay_train/</guid>
+        <link>http://escapingsloth.com/2016/07/15/bombay_train/</link>
+        <guid isPermaLink="true">http://escapingsloth.com/2016/07/15/bombay_train/</guid>
       </item>
     
       <item>
@@ -186,7 +186,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_123218.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_123218_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_123218_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -202,7 +202,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_144242.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_144242_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_144242_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -224,7 +224,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_150050.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_150050_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_150050_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -240,7 +240,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_145233.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_145233_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_145233_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -260,7 +260,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_152109.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_152109_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_152109_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -276,7 +276,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_152547.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_152547_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_152547_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -302,8 +302,8 @@
 
 </description>
         <pubDate>Sat, 11 Jun 2016 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2016/06/11/manali_ii/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/06/11/manali_ii/</guid>
+        <link>http://escapingsloth.com/2016/06/11/manali_ii/</link>
+        <guid isPermaLink="true">http://escapingsloth.com/2016/06/11/manali_ii/</guid>
       </item>
     
       <item>
@@ -332,7 +332,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150804_063752.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150804_063752_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150804_063752_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -348,7 +348,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150804_054223.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150804_054223_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150804_054223_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -366,7 +366,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150804_064820.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150804_064820_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150804_064820_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -380,7 +380,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150804_075520.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150804_075520_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150804_075520_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -396,7 +396,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150805_130202.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150805_130202_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150805_130202_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -412,7 +412,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150804_093759.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150804_093759_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150804_093759_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -424,8 +424,8 @@
 &lt;p&gt;Here, Boris sought out the owner and affectionately yelled at him until he grudlingly accepted Boris’ suggestion that I really should be allowed to get a double room for about 3 USD per night. This sounded just fine to me, so I dumped my bag in my new room and then enjoyed the view from my balcony for a bit before heading into town for a late breakfast.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Mar 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2016/03/24/manali/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/03/24/manali/</guid>
+        <link>http://escapingsloth.com/2016/03/24/manali/</link>
+        <guid isPermaLink="true">http://escapingsloth.com/2016/03/24/manali/</guid>
       </item>
     
       <item>
@@ -453,7 +453,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_081926.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_081926_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_081926_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -475,7 +475,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_084753.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_084753_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_084753_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -491,7 +491,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_085144.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_085144_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_085144_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -509,7 +509,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_085404.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_085404_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_085404_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -527,7 +527,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_090529.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_090529_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_090529_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -543,7 +543,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_091650.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_091650_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_091650_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -557,7 +557,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_092039.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_092039_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_092039_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -573,7 +573,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_094630.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_094630_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_094630_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -591,7 +591,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150801_111654.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150801_111654_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150801_111654_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -604,8 +604,8 @@
 
 </description>
         <pubDate>Wed, 03 Feb 2016 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2016/02/03/agra-taj-mahal/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/02/03/agra-taj-mahal/</guid>
+        <link>http://escapingsloth.com/2016/02/03/agra-taj-mahal/</link>
+        <guid isPermaLink="true">http://escapingsloth.com/2016/02/03/agra-taj-mahal/</guid>
       </item>
     
       <item>
@@ -629,7 +629,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150726_171556.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150726_171556_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150726_171556_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -645,7 +645,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150726_172105.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150726_172105_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150726_172105_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -663,7 +663,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150726_173759.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150726_173759_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150726_173759_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -679,7 +679,7 @@
     
     &lt;a href=&quot;http://www.escapingsloth.com/pics/fullsize/IMG_20150726_174122.jpg&quot; title=&quot;Image&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot;http://localhost:4000/pics/IMG_20150726_174122_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
+        &lt;img src=&quot;http://escapingsloth.com/pics/IMG_20150726_174122_scaled.jpg&quot; alt=&quot;Image&quot; /&gt;
     
     &lt;/a&gt;
     
@@ -692,8 +692,8 @@
 
 </description>
         <pubDate>Fri, 04 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2015/12/04/delhi_iii/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/04/delhi_iii/</guid>
+        <link>http://escapingsloth.com/2015/12/04/delhi_iii/</link>
+        <guid isPermaLink="true">http://escapingsloth.com/2015/12/04/delhi_iii/</guid>
       </item>
     
       <item>
@@ -724,8 +724,8 @@
 
 </description>
         <pubDate>Fri, 04 Dec 2015 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2015/12/04/delhi_ii/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/04/delhi_ii/</guid>
+        <link>http://escapingsloth.com/2015/12/04/delhi_ii/</link>
+        <guid isPermaLink="true">http://escapingsloth.com/2015/12/04/delhi_ii/</guid>
       </item>
     
   </channel>
